@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Homepage (Xing Xu)</title>
+    <link>/en/publication/</link>
+    <description>Recent content in Publications on Homepage (Xing Xu)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Adversarial Metric Learning for Cross-Modal Retrievl</title>
+      <link>/en/publication/wwwj2018-xu/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/wwwj2018-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modal-adversarial Semantic Learning Network for Extendable Cross-modal Retrieval</title>
+      <link>/en/publication/icmr2018-xu/</link>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/icmr2018-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-shot Learning based Pattern Transition Map for Action Early Recognition</title>
+      <link>/en/publication/sp2018-ji/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/sp2018-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Binary Coding for Visual Recognition via Joint Concept-Attribute Modelling</title>
+      <link>/en/publication/mtap2018-xu/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/mtap2018-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Learning for Visual Question Generation</title>
+      <link>/en/publication/icme2018-xu/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/icme2018-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Representation Based Image Super-Resolution on The KNN Based Dictionaries</title>
+      <link>/en/publication/jolt2018-liu/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/jolt2018-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binary Generative Adversarial Networks for Image Retrieval</title>
+      <link>/en/publication/aaai2018-song2/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/aaai2018-song2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Region Hashing for Efficient Large-scale Instance Search from Images</title>
+      <link>/en/publication/aaai2018-song1/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/aaai2018-song1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Invariant Subspace Learning for Cross-Modal Retrieval</title>
+      <link>/en/publication/mmm2018-liu/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/mmm2018-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dust Removal from High Turbid Underwater Images using Convolutional Neural Networks</title>
+      <link>/en/publication/jolt2018-li/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/jolt2018-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jointly Learning Attentions with Semantic Cross-Modal Correlation for Visual Question Answering</title>
+      <link>/en/publication/adc2017-cao/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/adc2017-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Cross-Modal Retrieval</title>
+      <link>/en/publication/mm2017-bokun/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/mm2017-bokun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Iterative Refinement Framework for Image Document Binarization with Bhattacharyya Similarity Measure</title>
+      <link>/en/publication/icdar2017-ning1/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/icdar2017-ning1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Math Formula Recognition in Degraded Chinese Document Images</title>
+      <link>/en/publication/icdar2017-ning2/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/icdar2017-ning2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-shot Learning via Discriminative Representation Extraction</title>
+      <link>/en/publication/prl2017-long/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/prl2017-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Discriminative Binary Codes for Large-scale Cross-modal Retrieval</title>
+      <link>/en/publication/tip2017-xu/</link>
+      <pubDate>Sun, 30 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/tip2017-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymmetric Sparse Hashing</title>
+      <link>/en/publication/icme2017-gao/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/icme2017-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribute Hashing for Zero‐Shot Image Retrieval</title>
+      <link>/en/publication/icme2017-yahui/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/icme2017-yahui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Cross-modal Retrieval through Adversarial Learning</title>
+      <link>/en/publication/icme2017-xu/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/icme2017-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Score Distribution for Heterogenous Feature Fusion in Image Classification</title>
+      <link>/en/publication/nc2017-he/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/nc2017-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Based Latent Semantic Sparse Hashing for Large-scale Retrieval from Heterogeneous Data Sources</title>
+      <link>/en/publication/nc2017-li/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/nc2017-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale Image Retrieval with Supervised Sparse Hashing</title>
+      <link>/en/publication/nc2017-yan/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/nc2017-yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Hashing with Adaptive Discrete Optimization for Multimedia Retrieval</title>
+      <link>/en/publication/nc2017-chen/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/nc2017-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videos Captioning with Attention-based LSTM and Semantic Consistency</title>
+      <link>/en/publication/tmm2017-gao/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/tmm2017-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Tri-Factorization with Manifold Regularizations for Zero-shot Learning</title>
+      <link>/en/publication/cvpr2017-xu/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/cvpr2017-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transductive Visual-Semantic Embedding for Zero-shot Learning</title>
+      <link>/en/publication/icmr2017-xu/</link>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/icmr2017-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDCNet: Filtering Deep Convolutional Network for Marine Organism Classification</title>
+      <link>/en/publication/mtap2017-huimin/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/mtap2017-huimin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear Matrix Completion for Social Image Tagging</title>
+      <link>/en/publication/access2017-xu/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/access2017-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wound Intensity Correction and Segmentation with Convolutional Neural Networks</title>
+      <link>/en/publication/cc2016-huimin/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/cc2016-huimin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Verification via Compact Words for Mobile Instance Search</title>
+      <link>/en/publication/mmm2017-wang/</link>
+      <pubDate>Sat, 14 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/mmm2017-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Annotation with Incomplete Labelling by Modelling Image Specific Structured Loss</title>
+      <link>/en/publication/ieej2016-xu/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/ieej2016-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-cue Information Fusion for Two-Layer Activity Recognition</title>
+      <link>/en/publication/accv2016-ji/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/accv2016-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention-based LSTM with Semantic Consistency for Videos Captioning</title>
+      <link>/en/publication/mm2016-guo/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/mm2016-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bidirectional Long-short Term Memory for Video Description</title>
+      <link>/en/publication/mm2016-bin/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/mm2016-bin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-modal Retrieval with Label Completion</title>
+      <link>/en/publication/mm2016-xu/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/mm2016-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Multi-representation for Multimedia Event Detection Using Co-training</title>
+      <link>/en/publication/nc2016-bin/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/nc2016-bin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Unified Binary Codes for Cross-Modal Retrieval via Latent Semantic Hashing</title>
+      <link>/en/publication/nc2016-xu/</link>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/nc2016-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Underwater Image Enhancement Method Using Weighted Guided Trigonometric Filtering and Artificial Light Correction</title>
+      <link>/en/publication/jvcir2016-huimin/</link>
+      <pubDate>Sat, 30 Jul 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/jvcir2016-huimin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminant Cross-modal Hashing</title>
+      <link>/en/publication/icmr2016-xu/</link>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/icmr2016-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Multi-task Local Metrics for Image Annotation</title>
+      <link>/en/publication/mtap2016-xu/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/mtap2016-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Coupled Dictionary Learning for Cross-modal Retrieval in Internet Images and Texts</title>
+      <link>/en/publication/mm2015-xu/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/mm2015-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupled Dictionary Learning and Feature Mapping for Cross-modal Retrieval</title>
+      <link>/en/publication/icme2015-xu/</link>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/icme2015-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query Expansion with Pairwise Learning in Object Retrieval Challenge</title>
+      <link>/en/publication/fcv2015-liu/</link>
+      <pubDate>Sat, 31 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/fcv2015-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Image Specific Structured Loss for Image Annotation with Incomplete Labelling</title>
+      <link>/en/publication/accv2014-xu/</link>
+      <pubDate>Tue, 28 Oct 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/accv2014-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLIA at ImageCLFE 2014 Scalable Concept Image Annotation Challenge</title>
+      <link>/en/publication/clef2014-xu/</link>
+      <pubDate>Sat, 20 Sep 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/clef2014-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag Completion with Defective Tag Assignments via Image-Tag Re-weighting</title>
+      <link>/en/publication/icme2014-xu/</link>
+      <pubDate>Sat, 19 Jul 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/icme2014-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Topic Model for Image Annotation by Modeling Topic Correlation</title>
+      <link>/en/publication/icme2013-xu/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/en/publication/icme2013-xu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

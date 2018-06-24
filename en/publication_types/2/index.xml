@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Homepage (Xing Xu)</title>
+    <link>/en/publication_types/2/</link>
+    <description>Recent content in 2 on Homepage (Xing Xu)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/en/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Adversarial Metric Learning for Cross-Modal Retrievl</title>
+      <link>/en/publication/wwwj2018-xu/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/wwwj2018-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-shot Learning based Pattern Transition Map for Action Early Recognition</title>
+      <link>/en/publication/sp2018-ji/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/sp2018-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Binary Coding for Visual Recognition via Joint Concept-Attribute Modelling</title>
+      <link>/en/publication/mtap2018-xu/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/mtap2018-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Representation Based Image Super-Resolution on The KNN Based Dictionaries</title>
+      <link>/en/publication/jolt2018-liu/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/jolt2018-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dust Removal from High Turbid Underwater Images using Convolutional Neural Networks</title>
+      <link>/en/publication/jolt2018-li/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/jolt2018-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-shot Learning via Discriminative Representation Extraction</title>
+      <link>/en/publication/prl2017-long/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/prl2017-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Discriminative Binary Codes for Large-scale Cross-modal Retrieval</title>
+      <link>/en/publication/tip2017-xu/</link>
+      <pubDate>Sun, 30 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/tip2017-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Score Distribution for Heterogenous Feature Fusion in Image Classification</title>
+      <link>/en/publication/nc2017-he/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/nc2017-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Based Latent Semantic Sparse Hashing for Large-scale Retrieval from Heterogeneous Data Sources</title>
+      <link>/en/publication/nc2017-li/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/nc2017-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale Image Retrieval with Supervised Sparse Hashing</title>
+      <link>/en/publication/nc2017-yan/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/nc2017-yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Hashing with Adaptive Discrete Optimization for Multimedia Retrieval</title>
+      <link>/en/publication/nc2017-chen/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/nc2017-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videos Captioning with Attention-based LSTM and Semantic Consistency</title>
+      <link>/en/publication/tmm2017-gao/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/tmm2017-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDCNet: Filtering Deep Convolutional Network for Marine Organism Classification</title>
+      <link>/en/publication/mtap2017-huimin/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/mtap2017-huimin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear Matrix Completion for Social Image Tagging</title>
+      <link>/en/publication/access2017-xu/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/access2017-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wound Intensity Correction and Segmentation with Convolutional Neural Networks</title>
+      <link>/en/publication/cc2016-huimin/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/cc2016-huimin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Annotation with Incomplete Labelling by Modelling Image Specific Structured Loss</title>
+      <link>/en/publication/ieej2016-xu/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/ieej2016-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Multi-representation for Multimedia Event Detection Using Co-training</title>
+      <link>/en/publication/nc2016-bin/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/nc2016-bin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Unified Binary Codes for Cross-Modal Retrieval via Latent Semantic Hashing</title>
+      <link>/en/publication/nc2016-xu/</link>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/nc2016-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Underwater Image Enhancement Method Using Weighted Guided Trigonometric Filtering and Artificial Light Correction</title>
+      <link>/en/publication/jvcir2016-huimin/</link>
+      <pubDate>Sat, 30 Jul 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/jvcir2016-huimin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Multi-task Local Metrics for Image Annotation</title>
+      <link>/en/publication/mtap2016-xu/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/en/publication/mtap2016-xu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
