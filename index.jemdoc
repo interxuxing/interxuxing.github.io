@@ -1,0 +1,126 @@
+# jemdoc: menu{MENU}{index.html}
+= Xing Xu 
+
+~~~
+{}{img_left}{pictures/profile_xing.jpg}{profile picture}{150px}{180px}{}
+*Xing Xu (徐 行)* [https://scholar.google.com/citations?hl=en&user=aTWbAiEAAAAJ&view_op=list_works&gmla=AJsN-F465dfbHP9CdGL1AfqODfNuclkloKqbIwLVHn2tddZEnnxf4b5TXx4L919LqAjkNxojFs3f6osR9osAMCxTeeyHqIrZnk2w8qYhgBygchDF8Y0PzNgS1N6Ma4ozMU30TbNhRkmT \[Google Scholar\]]
+\n
+Associate Professor \n
+[http://cfm.uestc.edu.cn/index Center for Future Media]\n
+[http://www.scse.uestc.edu.cn/ School of Computer Science and Engineering]\n
+[https://www.uestc.edu.cn/ Univeristy of Electronic Science and Technology of China, China]\n
+Email: xing.xu \[at\] uestc \[dot\] edu \[dot\] cn
+
+#(Publish under {{<FONT COLOR="FF0000">Y.-W. Chao</FONT>}})\n
+~~~
+
+== About Me
+I am currently an associate professor with Center of Future Media & School of Computer Science and Engineering, University of Electronic of Science and Technology of China (UESTC), China. I received the B.E. and M.E. degrees from Huazhong University of Science and Technology, China, in 2009 and 2012, respectively, and the Ph.D. degree from Kyushu University, Japan, in 2015. Before joining UESTC, I worked as a Research Technician at Kyushu University (2015-2016). \n
+
+My research interests mainly focus on multimedia information retrieval, especially cross-modal retrieval and knowledge transfer in integrating language and vision. I have published 60\+ academic papers (20\+ in CVPR, ACM MM, AAAI, TIP, TMM, TCYB, etc). I have served as reviewer for top conferences such as CVRP, ICCV, ACM MM, AAAI and top journals such as IEEE TIP, TNNLS, TMM, TCYB, leading guest editor for Journal of Visual Communication and Image Representation. 
+I am the recipient of the Best Paper Award at ACM MM 2017 and the World's FIRST 10K Best Paper Award - Platinum Award at IEEE ICME 2017.
+
+== News
+
+- /{{07/06/2019}}/ -- Three papers are accepted to ACM Multimedia Conference (ACM MM) 2019. {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+- /{{06/28/2019}}/ -- One paper on Zero-shot Cross-modal Retrieval is accepted to IEEE Transactions on Cybernetics.\n
+- /{{06/01/2019}}/ -- We have organized a special issue titled ``Integrating Vision and Language for Semantic Knowledge Reasoning and Transfer" on Journal of Visual Communication and Image Representation. {{<FONT COLOR="FF0000">[CALL FOR PAPER]</FONT>}} \[ [https://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation/call-for-papers/integrating-vision-and-language-for-semantic-knowledge link] \]\n
+- /{{03/15/2019}}/ -- One paper on Zero-shot Learning is accepted to Signal Processing.\n
+#- /{{06/06/2016}}/ -- Start an internship at [https://research.adobe.com/ Adobe Research].\n
+#- /{{03/10/2016}}/ -- I am awarded the [http://googleresearch.blogspot.com/2016/03/announcing-2016-google-phd-fellows-for.html 2016 Google PhD Fellowship]. Thank you Google!\n
+
+
+
+== Highlighted Research
+
+- Cross-Modal Retrieval
+
+~~~
+{}{img_left}{pictures/mm2019_tan.png}{profile picture}{116px}{87px}{}
+*Matching Images and Text with Multi-modal Tensor Fusion and Re-ranking*\n
+Tan Wang, *Xing Xu*, Yang Yang, Alan Hanjalic, Heng Tao Shen and Jingkuan Song.\n
+/ACM International Conference on Multimedia/, 2019. (*Corresponding Author) \n
+\[ [https://arxiv.org/abs/1908.04011 link] \] 
+\[ [publications/tan_mm2019.bib bibtex] \] 
+\[ [https://github.com/Wangt-CN/MTFN-RR-PyTorch-Code code] \]
+~~~
+
+~~~
+{}{img_left}{pictures/mm2017_bokun.jpg}{profile picture}{116px}{87px}{}
+*Adversarial Cross-Modal Retrieval*\n
+Bokun Wang, Yang Yang, *Xing Xu*, Alan Hanjalic and Heng Tao Shen.\n
+/ACM International Conference on Multimedia/, 2017. {{<FONT COLOR="FF0000">Best Paper Award</FONT>}}\n
+\[ [https://dl.acm.org/citation.cfm?id=3123326 link] \] 
+\[ [publications/bokun_mm2017.bib bibtex] \] 
+\[ [https://github.com/sunpeng981712364/ACMR_demo code] \]
+~~~
+
+~~~
+{}{img_left}{pictures/tip2017_xing.jpg}{profile picture}{116px}{87px}{}
+*Learning Discriminative Binary Codes for Large-scale Cross-modal Retrieval*\n
+*Xing Xu*, Fumin Shen, Yang Yang, Heng Tao Shen, Xuelong Li. \n
+/IEEE Transactions on Image Processing (TIP)/, 26:5, 2494-2507, 2017. {{<FONT COLOR="FF0000">ESI Highly Cited Paper</FONT>}}\n
+\[ [https://ieeexplore.ieee.org/abstract/document/7867785/ link] \] 
+\[ [publications/xing_tip2017.bib bibtex] \] 
+\[ [http://cfm.uestc.edu.cn/~fshen/MFMR.zip code] \]
+~~~
+
+- Transfer Learning
+
+~~~
+{}{img_left}{pictures/cvpr2019_zhang.png}{profile picture}{116px}{92px}{}
+*Sequence-To-Sequence Domain Adaptation Network for Robust Text Image Recognition*\n
+Yaping Zhang, Shuai Nie, Wenju Liu, *Xing Xu*, Dongxiang Zhang, Heng Tao Shen.\n
+/IEEE International Conference on Computer Vision and Pattern Recognition/, 2019. (*Equal contribution) \n
+\[ [http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf link] \] 
+\[ [publications/yaping_cvpr2019.bib bibtex] \]
+~~~
+
+
+~~~
+{}{img_left}{pictures/sp2019_xing.jpg}{profile picture}{116px}{92px}{}
+*Fusion by Synthesizing: A Multi-View Deep Neural Network for Zero-Shot Recognition*\n
+*Xing Xu*, Xiang Zhou, Fumin Shen, Lianli Gao, Heng Tao Shen, Xuelong Li.\n
+/Singal Processing/, 2019.\n
+\[ [https://www.sciencedirect.com/science/article/pii/S0165168419301860 link] \] 
+\[ [publications/xing_sp2019.bib bibtex] \]
+~~~
+
+~~~
+{}{img_left}{pictures/cvpr2017_xing.jpg}{profile picture}{116px}{92px}{}
+*Matrix Tri-Factorization with Manifold Regularizations for Zero-shot Learning*\n
+*Xing Xu*, Fumin Shen, Yang Yang, Dongxiang Zhang, Heng Tao Shen.\n
+/IEEE International Conference on Computer Vision and Pattern Recognition/, 2017.\n
+\[ [http://zpascal.net/cvpr2017/Xu_Matrix_Tri-Factorization_With_CVPR_2017_paper.pdf link] \] 
+\[ [publications/xing_cvpr2017.bib bibtex] \]
+\[ [code] \]
+~~~
+
+
+
+
+
+== Awards
+
+- Best Paper Award, the 25th ACM International Conference on Multimedia (MM 2017) \n
+- World’s FIRST 10K Best Paper Award-Platinum Award, the 18th IEEE International Conference on Multimedia & Expo (ICME 2017) \n
+- Best Student Paper Award, the 28th Edition of the Australasian Database Conference (ADC 2017) \n
+- Excellent Poster Award, the 21th Japan-Korea Joint Workshop on Frontiers of Computer Vision (FCV 2015) \n
+
+
+== Teaching
+
+- Computer Vision and Pattern Recognition (Undergraduate), 2019, Spring \n
+- Advanced Computer Vision (Graduate), 2019, Spring \n
+- Principle and Application of Microcomputer (Undergraduate), 2019, Spring \n
+- Principle and Application of Microcomputer (Undergraduate), 2018, Spring \n
+- Principle and Application of Microcomputer (Undergraduate), 2017, Spring \n
+
+
+# == Contact
+# *Office:*\n
+# University of Michigan,\n
+# Computer Science and Engineering,\n
+
+# *Email:*
+# ywchao \[at\] umich \[dot\] edu
