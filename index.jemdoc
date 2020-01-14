@@ -20,9 +20,13 @@ I am currently an associate professor with Center of Future Media & School of Co
 My research interests mainly focus on multimedia information retrieval, especially cross-modal retrieval and knowledge transfer in integrating language and vision. I have published 60\+ academic papers (20\+ in CVPR, ACM MM, AAAI, TIP, TMM, TCYB, etc). I have served as reviewer for top conferences such as CVRP, ICCV, ACM MM, AAAI and top journals such as IEEE TIP, TNNLS, TMM, TCYB, leading guest editor for Journal of Visual Communication and Image Representation. 
 I am the recipient of the Best Paper Award at ACM MM 2017 and the World's FIRST 10K Best Paper Award - Platinum Award at IEEE ICME 2017.
 
+{{<FONT COLOR="FF0000">欢迎有志于从事计算机视觉、人工智能方向学术研究和算法开发的同学报考研究生~ 同时也欢迎计划保研和出国的同学提前参与实验室科研训练~</FONT>}} \n
+
 == News
 
-- /{{07/06/2019}}/ -- Three papers are accepted to ACM Multimedia Conference (ACM MM) 2019. {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+- /{{01/13/2020}}/ -- One paper is accepted to the IEEE Transactions on Neural Networks and Learning Systems (TNNLS). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+- /{{11/12/2019}}/ -- One paper is accepted to the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-2020). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+- /{{07/06/2019}}/ -- Three papers are accepted to ACM Multimedia Conference (ACM MM) 2019. \n
 - /{{06/28/2019}}/ -- One paper on Zero-shot Cross-modal Retrieval is accepted to IEEE Transactions on Cybernetics.\n
 - /{{06/01/2019}}/ -- We have organized a special issue titled ``Integrating Vision and Language for Semantic Knowledge Reasoning and Transfer" on Journal of Visual Communication and Image Representation. {{<FONT COLOR="FF0000">[CALL FOR PAPER]</FONT>}} \[ [https://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation/call-for-papers/integrating-vision-and-language-for-semantic-knowledge link] \]\n
 - /{{03/15/2019}}/ -- One paper on Zero-shot Learning is accepted to Signal Processing.\n
@@ -34,6 +38,15 @@ I am the recipient of the Best Paper Award at ACM MM 2017 and the World's FIRST 
 == Highlighted Research
 
 - Cross-Modal Retrieval
+
+~~~
+{}{img_left}{pictures/tnnls2020_xing.jpg}{profile picture}{116px}{87px}{}
+*Cross-Modal Attention with Semantic Consistence for Image-Text Matching*\n
+Xing Xu, Tan Wang, Yang Yang, Lin Zuo, Fumin Shen and Heng Tao Shen.\n
+/IEEE Transactions on Neural Networks and Learning Systems/, 2020. \n
+\[ [publications/xing_tnnls2020.bib bibtex] \] 
+\[ [https://github.com/Wangt-CN/Code_CASC code] \]
+~~~
 
 ~~~
 {}{img_left}{pictures/mm2019_tan.png}{profile picture}{116px}{87px}{}
@@ -102,6 +115,7 @@ Yaping Zhang, Shuai Nie, Wenju Liu, *Xing Xu*, Dongxiang Zhang, Heng Tao Shen.\n
 
 == Awards
 
+- Outstanding Young Researcher Award, IEEE Computer Society, Special Technical Committee on Big Data, 2019 \n
 - Best Paper Award, the 25th ACM International Conference on Multimedia (MM 2017) \n
 - World’s FIRST 10K Best Paper Award-Platinum Award, the 18th IEEE International Conference on Multimedia & Expo (ICME 2017) \n
 - Best Student Paper Award, the 28th Edition of the Australasian Database Conference (ADC 2017) \n

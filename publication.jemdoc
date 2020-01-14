@@ -1,11 +1,18 @@
 # jemdoc: menu{MENU}{publication.html}
 
+= 2020
+
+- Xing Xu, Tan Wang, Yang Yang, Lin Zuo, Fumin Shen and Heng Tao Shen. "Cross-Modal Attention with Semantic Consistence for Image-Text Matching". IEEE Transactions on Neural Networks and Learning Systems, 2020. (SCI, JCR-1区)
+\[ [publications/xing_tnnls2020.bib bibtex] \] 
+\[ [https://github.com/Wangt-CN/Code_CASC code] \] \n
+
+- Kaiyi Lin, *Xing Xu*, Lianli Gao, Zheng Wang and Heng Tao Shen. "Learning Cross-Aligned Latent Embeddings for Zero-Shot Cross-Modal Retrieval". The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020). (CCF A, *Corresponding Author) \n
+
 = 2019
 - Tan Wang, *Xing Xu*, Yang Yang, Alan Hanjalic, Heng Tao Shen and Jingkuan Song. "Matching Images and Text with Multi-modal Tensor Fusion and Re-ranking". ACM Multimedia (ACM MM), 2019. (CCF A, *Corresponding Author) 
 \[ [https://arxiv.org/abs/1908.04011 link] \] 
 \[ [publications/tan_mm2019.bib bibtex] \] 
 \[ [https://github.com/Wangt-CN/MTFN-RR-PyTorch-Code code] \] \n
-
 
 - Jingyi Zhang, Zhen Wei, Ionut Cosmin Duta, Fumin Shen, Li Liu, Fan Zhu, *Xing Xu*, Ling Shao and Heng Tao Shen. "Generative Reconstructive Hashing for Incomplete Video Analysis". ACM Multimedia (ACM MM), 2019. (CCF A) \n
 
@@ -96,13 +103,13 @@
 
 -  *Xing Xu*, Fumin Shen, Yang Yang, Heng Tao Shen, Xuelong Li, "Learning Discriminative Binary Codes for Large-scale Cross-modal Retrieval", IEEE Transactions on Image Processing (TIP), 26:5, 2494-2507, 2017 (SCI, CCF A, JCR-2区)  \n
 
--  Lianli Gao, Zhao Guo, Hanwang Zhang, *Xing Xu*, Heng Tao Shen, "Videos Captioning with Attention-based LSTM and Semantic Consistency", IEEE Transactions on Multimedia (TMM), 19:9, 0245-2055, 2017 (SCI, CCF-B, JCR-2区) \n
+-  Lianli Gao, Zhao Guo, Hanwang Zhang, *Xing Xu*, Heng Tao Shen, "Videos Captioning with Attention-based LSTM and Semantic Consistency", IEEE Transactions on Multimedia (TMM), 19:9, 0245-2055, 2017 (SCI, CCF-B, JCR-2区, {{<FONT COLOR="FF0000">ESI Highly Cited Paper</FONT>}}) \n
 
 -  Yan Xu, Fumin Shen, *Xing Xu*, Lianli Gao, Yuan Wang, Xiao Tan, "Large-scale Image Retrieval with Supervised Sparse Hashing", 229, 45-53, Neurocomputing, 2017 (SCI, JCR-2区) \n
 
 -  Sixiu Chen, Fumin Shen, Yang Yang, *Xing Xu*, Jingkuan Song, "Supervised Hashing with Adaptive Discrete Optimization for Multimedia Retrieval", 253, 97-103, Neurocomputing, 2017 (SCI, JCR-2区) \n
 
--  Xiangpeng Li, Lianli Gao, *Xing Xu*, Jie Shao, Fumin Shen, Jingkuan Song, "Kernel based Latent Semantic Sparse Hashing for Large-scale Retrieval from Heterogeneous Data Sources", 253, 89-96, Neurocomputing, 2017 (SCI, JCR-2区, {{<FONT COLOR="FF0000">ESI Highly Cited Paper</FONT>}})  \n
+-  Xiangpeng Li, Lianli Gao, *Xing Xu*, Jie Shao, Fumin Shen, Jingkuan Song, "Kernel based Latent Semantic Sparse Hashing for Large-scale Retrieval from Heterogeneous Data Sources", 253, 89-96, Neurocomputing, 2017 (SCI, JCR-2区)  \n
  
 -  Chengkun He, Jie Shao, *Xing Xu*, Deqiang Ouyang, Lianli Gao, "Exploiting Score Distribution for Heterogenous Feature Fusion in Image Classification", 253, 70-76, Neurocomputing, 2017 (SCI, JCR-2区) \n
 
@@ -130,7 +137,7 @@
 
 -  Yi Bin, Yang Yang, Fumin Shen, *Xing Xu*, Heng Tao Shen, "Bidirectional Long-short Term Memory for Video Description", ACM International Conference on Multimedia, pages 436-440, 2016 (CCF A, Short paper) \n
 
-# -  Yanli Ji, Jiaming Li, Hong Cheng, *Xing Xu*, Jingkuan Song, "Multi-cue Information Fusion for Two-Layer Activity Recognition", Asian Conference on Computer Vision Workshop, 273-285, 2016 (EI) \n
+# -  Yanli Ji, Jiaming Li, Hong Cheng, *Xing Xu*, Jingkuan Song, "Multi-cue Information Fusion for Two-Layer Activity Recognition", Asian Conference on Computer Vision Workshop, 273-285, 2016 \n
 
 -  *Xing Xu*, Fumin Shen, Yang Yang, Heng Tao Shen, "Discriminant Cross-modal Hashing", ACM International Conference on Multimedia Retrieval, pages 305-308, 2016 (CCF-B) \n
 
