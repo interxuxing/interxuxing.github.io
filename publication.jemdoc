@@ -2,19 +2,37 @@
 
 = 2020
 
-- Jingran Zhang, Fumin Shen, *Xing Xu* and Heng Tao Shen. "Temporal Reasoning Graph for Activity Recognition", IEEE Transactions on Image Processing, 2020. (SCI, CCF A, JCR-1)
+- *Xing Xu*, Kaiyi Lin, Huimin Lu, Lianli Gao and Heng Tao Shen. "Correlated Features Synthesis and Alignment for Zero-shot Cross-modal Retrieval". International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020. (CCF A)
 
-- Jingkuan Song, Tao He, Lianli Gao, *Xing Xu*, Alan Hanjalic and Heng Tao Shen. "Unified Binary Generative Adversarial Network for Image Retrieval and Compression". International Journal of Computer Vision, 2020. (SCI, CCF A, JCR-1)
+- Jingkuan Song, Ruimin Lang, Xiaosu Zhu, *Xing Xu*, Lianli Gao and Heng Tao Shen. "3D Self-Attention for Unsupervised Video Quantization". International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020. (CCF A)
 
-- Heng Tao Shen, Luchen Liu, Yang Yang, *Xing Xu*, Zi Huang, Fumin Shen and Richang Hong. "Exploiting Subspace Relation in Semantic Labels for Cross-modal Hashing". IEEE Transactions on Knowledge and Data Engineering, 2020. (SCI, CCF A)
+- *Xing Xu*, Tan Wang, Yang Yang, Alan Hanjalic and Heng Tao Shen. "Radial Graph Convolutional Network for Visual Question Generation". IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020. (SCI, JCR-1) 
+\[ [publications/xing_tnnls2020_vqg.bib bibtex] \] 
+\[ [https://github.com/Wangt-CN/VQG-GCN code] \] \n
 
-- *Xing Xu*, Tan Wang, Yang Yang, Lin Zuo, Fumin Shen and Heng Tao Shen. "Cross-Modal Attention with Semantic Consistence for Image-Text Matching". IEEE Transactions on Neural Networks and Learning Systems, 2020. (SCI, JCR-1)
+- Jingran Zhang, Fumin Shen, *Xing Xu* and Heng Tao Shen. "Temporal Reasoning Graph for Activity Recognition", IEEE Transactions on Image Processing (TIP), 2020. (SCI, CCF A, JCR-1)
+
+- Huimin Lu, Ming Zhang, *Xing Xu*, Yujie Li and Heng Tao Shen. "Deep Fuzzy Hashing Network for Efficient Image Retrieval". IEEE Transactions on Fuzzy Systems, 2020 (SCI, JCR-1, *Corresponding Author)
+
+- Shaofeng Zhang, Zheng Wang, *Xing Xu*, Xiang Guan, Yang Yang. "Fooled by Imagination: Adversarial Attack to Image Captioning via Perturbation in Complex Domain". IEEE International Conference on Multimedia & Expo (ICME), 2020. (CCF B)
+
+- Jiawen Zhu, *Xing Xu*, Fumin Shen, Roy Ka-Wei Lee, Zheng Wang, Heng Tao Shen. "OCEAN: A Dual Learning Approach for Generalized Zero-Shot Sketch-Based Image Retrieval". IEEE International Conference on Multimedia & Expo (ICME), 2020. (CCF B, *Corresponding Author) 
+
+- Jiwei Wei, *Xing Xu*, Yang Yang, Yanli Ji, Zheng Wang, Heng Tao Shen. "Universal Weighting Metric Learning for Cross-Modal Matching". IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. (CCF A, *Corresponding Author)
+
+- *Xing Xu*, Jiefu Chen, Jinhui Xiao, Lianli Gao, Fumin Shen and Heng Tao Shen. "What Machines See Is Not What They Get: Fooling Scene Text Recognition Models with Adversarial Text Images". IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. (CCF A)
+
+- Jingkuan Song, Tao He, Lianli Gao, *Xing Xu*, Alan Hanjalic and Heng Tao Shen. "Unified Binary Generative Adversarial Network for Image Retrieval and Compression". International Journal of Computer Vision (IJCV), 2020. (SCI, CCF A, JCR-1)
+
+- Heng Tao Shen, Luchen Liu, Yang Yang, *Xing Xu*, Zi Huang, Fumin Shen and Richang Hong. "Exploiting Subspace Relation in Semantic Labels for Cross-modal Hashing". IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020. (SCI, CCF A)
+
+- *Xing Xu*, Tan Wang, Yang Yang, Lin Zuo, Fumin Shen and Heng Tao Shen. "Cross-Modal Attention with Semantic Consistence for Image-Text Matching". IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020. (SCI, JCR-1)
 \[ [publications/xing_tnnls2020.bib bibtex] \] 
 \[ [https://github.com/Wangt-CN/Code_CASC code] \] \n
 
-- Kaiyi Lin, *Xing Xu*, Lianli Gao, Zheng Wang and Heng Tao Shen. "Learning Cross-Aligned Latent Embeddings for Zero-Shot Cross-Modal Retrieval". The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020). (CCF A, *Corresponding Author) \n
+- Kaiyi Lin, *Xing Xu*, Lianli Gao, Zheng Wang and Heng Tao Shen. "Learning Cross-Aligned Latent Embeddings for Zero-Shot Cross-Modal Retrieval". The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020. (CCF A, *Corresponding Author) \n
 
-- Yanli Ji, Yue Zhan, Yang Yang, *Xing Xu*, Fumin Shen and Heng Tao Shen. "A Context Knowledge Map Guided Coarse-to-Fine Action Recognition". IEEE Transactions on Image Processing, volume 29, pages 2742-2752, 2020 (SCI, CCF A, JCR-1)
+- Yanli Ji, Yue Zhan, Yang Yang, *Xing Xu*, Fumin Shen and Heng Tao Shen. "A Context Knowledge Map Guided Coarse-to-Fine Action Recognition". IEEE Transactions on Image Processing (TIP), volume 29, pages 2742-2752, 2020 (SCI, CCF A, JCR-1)
 \[ [publications/ji_tip2020.bib bibtex] \]
 
 = 2019
@@ -27,7 +45,7 @@
 
 - Xiangpeng Li, Lianli Gao, Xuanhan Wang, Wu Liu, *Xing Xu*, Jingkuan Song and Heng Tao Shen. "Learnable Aggregating Net with Divergent Loss for Video Question Answering". ACM Multimedia (ACM MM), 2019. (CCF A) \n
 
-- *Xing Xu*, Huimin Lu, Jingkuan Song, Yang Yang, Heng Tao Shen and Xuelong Li, “Ternary Adversarial Networks with Self-supervision for Zero-shot Cross-modal Retrieval”, IEEE Transactions on Cybernetics, 2019 (SCI, JCR-1) 
+- *Xing Xu*, Huimin Lu, Jingkuan Song, Yang Yang, Heng Tao Shen and Xuelong Li, “Ternary Adversarial Networks with Self-supervision for Zero-shot Cross-modal Retrieval”, IEEE Transactions on Cybernetics (TCYB), 2019 (SCI, JCR-1) 
 \[ [https://ieeexplore.ieee.org/document/8771379/ link] \]
 \[ [publications/xing_tcyb2019.bib bibtex] \]
 \n
@@ -38,7 +56,7 @@
 
 - *Xing Xu*, Li He, Huimin Lu, Lianli Gao, Yanli Ji, “Deep Adversarial Metric Learning for Cross-Modal Retrieval”, World Wide Web, 22(2): 657-672 (2019)  (SCI, CCF-B) \n
 
-- Yaping Zhang, Shuai Nie, Wenju Liu, *Xing Xu*, Dongxiang Zhang, Heng Tao Shen, “Sequence-To-Sequence Domain Adaptation Network for Robust Text Image Recognition ”, IEEE International Conference on Computer Vision and Pattern Recognition, 2019. (CCF A, *Equal Contribution) 
+- Yaping Zhang, Shuai Nie, Wenju Liu, *Xing Xu*, Dongxiang Zhang, Heng Tao Shen, “Sequence-To-Sequence Domain Adaptation Network for Robust Text Image Recognition ”, IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2019. (CCF A, *Equal Contribution) 
 \[ [http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf link] \] 
 \[ [publications/yaping_cvpr2019.bib bibtex] \]
 \n
@@ -83,7 +101,7 @@
 
 = 2017
 
-- Bokun Wang, Yang Yang, *Xing Xu*, Alan Hanjalic and Heng Tao Shen, "Adversarial Cross-Modal Retrieval", in ACM International Conference on Multimedia, pages 154-162, 2017 (CCF A, {{<FONT COLOR="FF0000">Best Paper Award</FONT>}}) 
+- Bokun Wang, Yang Yang, *Xing Xu*, Alan Hanjalic and Heng Tao Shen, "Adversarial Cross-Modal Retrieval", in ACM International Conference on Multimedia (ACM MM), pages 154-162, 2017 (CCF A, {{<FONT COLOR="FF0000">Best Paper Award</FONT>}}) 
 \[ [https://dl.acm.org/citation.cfm?id=3123326 link] \] 
 \[ [publications/bokun_mm2017.bib bibtex] \] 
 \[ [https://github.com/sunpeng981712364/ACMR_demo code] \] \n
@@ -92,21 +110,21 @@
 
 - Liangfu Cao, Lianli Gao, Jingkuan Song, *Xing Xu*, Heng Tao Shen, “Jointly Learning Attentions with Semantic Cross-Modal Correlation for Visual Question Answering”, Australia Database Conference, pages 248-260, 2017 ({{<FONT COLOR="FF0000">Best Student Paper Award</FONT>}}) \n
 
-- Ning Liu, Dongxiang Zhang, *Xing Xu*, Long Guo, Lijiang Chen, Wenju Liu, Dengfeng Ke, "Robust Math Formula Recognition in Degraded Chinese Document Images", in IEEE International Conference on Document Analysis and Recognition, 2017 (CCF-C) \n
+- Ning Liu, Dongxiang Zhang, *Xing Xu*, Long Guo, Lijiang Chen, Wenju Liu, Dengfeng Ke, "Robust Math Formula Recognition in Degraded Chinese Document Images", in IEEE International Conference on Document Analysis and Recognition (ICDAR), 2017 (CCF-C) \n
 
-- Ning Liu, Dongxiang Zhang, *Xing Xu*, Wenju Liu, Dengfeng Ke, Long Guo, Shengkun Shi, Hui Liu and Lijiang Chen, "An Iterative Refinement Framework for Image Document Binarization with Bhattacharyya Similarity Measure", in IEEE International Conference on Document Analysis and Recognition, 2017 (CCF-C) \n
+- Ning Liu, Dongxiang Zhang, *Xing Xu*, Wenju Liu, Dengfeng Ke, Long Guo, Shengkun Shi, Hui Liu and Lijiang Chen, "An Iterative Refinement Framework for Image Document Binarization with Bhattacharyya Similarity Measure", in IEEE International Conference on Document Analysis and Recognition (ICDAR), 2017 (CCF-C) \n
 
-- Li He, *Xing Xu*, Huimin Lu, Yang Yang, Fumin Shen, Heng Tao Shen, "Unsupervised Cross-modal Retrieval through Adversarial Learning", in International Conference of Multimedia and Expo, 2017 (CCF-B, Corresponding Author & Equal contribution) \n
+- Li He, *Xing Xu*, Huimin Lu, Yang Yang, Fumin Shen, Heng Tao Shen, "Unsupervised Cross-modal Retrieval through Adversarial Learning", in International Conference of Multimedia and Expo (ICME), 2017 (CCF-B, Corresponding Author & Equal contribution) \n
 
-- Gao Xin, Fumin Shen, Yang Yang, *Xing Xu*, Heng Tao Shen, "Asymmetric Sparse Hashing", in International Conference of Multimedia and Expo, 2017 (CCF-B) \n
+- Gao Xin, Fumin Shen, Yang Yang, *Xing Xu*, Heng Tao Shen, "Asymmetric Sparse Hashing", in International Conference of Multimedia and Expo (ICME), 2017 (CCF-B) \n
 
-- Yahui Xu, Yang Yang, Fumin Shen, Yuxuan Zhou, *Xing Xu*, Heng Tao Shen, "Attribute Hashing for Zero-Shot Image Retrieval", in International Conference of Multimedia and Expo, 2017  (EI, CCF-B, {{<FONT COLOR="FF0000">World's FIRST 10K Best Paper Award-Platinum Award</FONT>}}) \n
+- Yahui Xu, Yang Yang, Fumin Shen, Yuxuan Zhou, *Xing Xu*, Heng Tao Shen, "Attribute Hashing for Zero-Shot Image Retrieval", in International Conference of Multimedia and Expo (ICME), 2017  (EI, CCF-B, {{<FONT COLOR="FF0000">World's FIRST 10K Best Paper Award-Platinum Award</FONT>}}) \n
 
--  *Xing Xu*, Fumin Shen, Yang Yang, Dongxiang Zhang, Heng Tao Shen, Jingkuan Song, "Matrix Tri-Factorization with Manifold Regularizations for Zero-shot Learning", IEEE International Conference on Computer Vision and Pattern Recognition, 2017 (CCF A) 
+-  *Xing Xu*, Fumin Shen, Yang Yang, Dongxiang Zhang, Heng Tao Shen, Jingkuan Song, "Matrix Tri-Factorization with Manifold Regularizations for Zero-shot Learning", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2017 (CCF A) 
 \[ [http://zpascal.net/cvpr2017/Xu_Matrix_Tri-Factorization_With_CVPR_2017_paper.pdf link] \] 
 \[ [publications/xing_cvpr2017.bib bibtex] \] \n
 
--  *Xing Xu*, Fumin Shen, Yang Yang, Jie Shao, Zi Huang, "Transductive Visual-Semantic Embedding for Zero-shot Learning", Proceedings of the 2017 ACM on International Conference on Multimedia Retrieval, pages 41-49, 2017 (CCF-B) \n
+-  *Xing Xu*, Fumin Shen, Yang Yang, Jie Shao, Zi Huang, "Transductive Visual-Semantic Embedding for Zero-shot Learning", Proceedings of the 2017 ACM on International Conference on Multimedia Retrieval (ICMR), pages 41-49, 2017 (CCF-B) \n
 
 -  *Xing Xu*, Li He, Huimin Lu, Atsushi Shimada, Rin-Ichiro Taniguchi, “Non-linear Matrix Completion for Social Image Tagging”, IEEE Access, 5, 6688-6696, 2017 (SCI) \n
 
@@ -140,28 +158,28 @@
 
 -  *Xing Xu*, Atsushi Shimada, Hajime Nagahara, Rin-ichiro Taniguchi, "Learning Multi-task Local Metrics for Image Annotation", Multimedia Tools and Applications, 75:4, pages 2203-2231, 2016 (SCI) \n
 
--  *Xing Xu*, Fumin Shen, Yang Yang, Heng Tao Shen, Li He, Jingkuan Song, "Cross-modal Retrieval with Label Completion", ACM International Conference on Multimedia, pages 302-306, 2016 (CCF A, Short paper) \n
+-  *Xing Xu*, Fumin Shen, Yang Yang, Heng Tao Shen, Li He, Jingkuan Song, "Cross-modal Retrieval with Label Completion", ACM International Conference on Multimedia (ICME), pages 302-306, 2016 (CCF A, Short paper) \n
 
--  Zhao Guo, Lianli Gao, Jingkuan Song, *Xing Xu*, Jie Shao, Heng Tao Shen, "Attention-based LSTM with Semantic Consistency for Videos Captioning", ACM International Conference on Multimedia, pages 357-361, 2016 (CCF A, Short paper) \n
+-  Zhao Guo, Lianli Gao, Jingkuan Song, *Xing Xu*, Jie Shao, Heng Tao Shen, "Attention-based LSTM with Semantic Consistency for Videos Captioning", ACM International Conference on Multimedia (ACM MM), pages 357-361, 2016 (CCF A, Short paper) \n
 
--  Yi Bin, Yang Yang, Fumin Shen, *Xing Xu*, Heng Tao Shen, "Bidirectional Long-short Term Memory for Video Description", ACM International Conference on Multimedia, pages 436-440, 2016 (CCF A, Short paper) \n
+-  Yi Bin, Yang Yang, Fumin Shen, *Xing Xu*, Heng Tao Shen, "Bidirectional Long-short Term Memory for Video Description", ACM International Conference on Multimedia (ACM MM), pages 436-440, 2016 (CCF A, Short paper) \n
 
 # -  Yanli Ji, Jiaming Li, Hong Cheng, *Xing Xu*, Jingkuan Song, "Multi-cue Information Fusion for Two-Layer Activity Recognition", Asian Conference on Computer Vision Workshop, 273-285, 2016 \n
 
--  *Xing Xu*, Fumin Shen, Yang Yang, Heng Tao Shen, "Discriminant Cross-modal Hashing", ACM International Conference on Multimedia Retrieval, pages 305-308, 2016 (CCF-B) \n
+-  *Xing Xu*, Fumin Shen, Yang Yang, Heng Tao Shen, "Discriminant Cross-modal Hashing", ACM International Conference on Multimedia Retrieval (ICMR), pages 305-308, 2016 (CCF-B) \n
 
 
 = 2013 - 2015 
 
--  *Xing Xu*, Yang Yang, Atsushi Shimada, Rin-ichiro Taniguchi and Li He, "Semi-supervised Coupled Dictionary Learning for Cross-modal Retrieval in Internet Images and Texts", ACM International Conference on Multimedia, 2015 (CCF A, Short paper) \n
+-  *Xing Xu*, Yang Yang, Atsushi Shimada, Rin-ichiro Taniguchi and Li He, "Semi-supervised Coupled Dictionary Learning for Cross-modal Retrieval in Internet Images and Texts", ACM International Conference on Multimedia (ACM MM), 2015 (CCF A, Short paper) \n
 
--  *Xing Xu*, Atsushi Shimada, Rin-ichiro Taniguchi and Li He, "Coupled Dictionary Learning and Feature Mapping for Cross-modal Retrieval", in IEEE International Conference of Multimedia and Expo, 2015 (CCF-B) \n
+-  *Xing Xu*, Atsushi Shimada, Rin-ichiro Taniguchi and Li He, "Coupled Dictionary Learning and Feature Mapping for Cross-modal Retrieval", in IEEE International Conference of Multimedia and Expo (ICME), 2015 (CCF-B) \n
 
 -  Hao Liu, Atsushi Shimada, *Xing Xu*, Hajime Nagahara, Hideaki Uchiyama, Rin-ichiro Taniguchi, "Query Expansion with Pairwise Learning in Object Retrieval Challenge", 21st Korea-Japan Joint Workshop on Frontiers of Computer Vision (FCV), 2015 (EI, {{<FONT COLOR="FF0000">Excellent Poster Award</FONT>}}) \n
 
--  *Xing Xu*, Atsushi Shimada and Rin-ichiro Taniguchi, "Exploring Image Specific Structured Loss for Image Annotation with Incomplete Labelling", in Asian Conference on Computer Vision, 2014 (CCF-C) \n
+-  *Xing Xu*, Atsushi Shimada and Rin-ichiro Taniguchi, "Exploring Image Specific Structured Loss for Image Annotation with Incomplete Labelling", in Asian Conference on Computer Vision (ACCV), 2014 (CCF-C) \n
 
--  *Xing Xu*, Atsushi Shimada and Rin-ichiro Taniguchi, "Tag Completion with Defective Tag Assignments via Image-Tag Re-weighting", in IEEE International Conference of Multimedia and Expo, 2014 (CCF-B) \n
+-  *Xing Xu*, Atsushi Shimada and Rin-ichiro Taniguchi, "Tag Completion with Defective Tag Assignments via Image-Tag Re-weighting", in IEEE International Conference of Multimedia and Expo (ICME), 2014 (CCF-B) \n
 
 -  *Xing Xu*, Atsushi Shimada and Rin-ichiro Taniguchi, "Image Annotation by Learning Label-specific Distance Metrics", in 17th International Conference on Image Analysis and Processing (ICIAP), 2013 \n
 

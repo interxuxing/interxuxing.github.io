@@ -17,16 +17,19 @@ Email: xing.xu \[at\] uestc \[dot\] edu \[dot\] cn
 == About Me
 I am currently an associate professor with Center of Future Media & School of Computer Science and Engineering, University of Electronic of Science and Technology of China (UESTC), China. I received the B.E. and M.E. degrees from Huazhong University of Science and Technology, China, in 2009 and 2012, respectively, and the Ph.D. degree from Kyushu University, Japan, in 2015. Before joining UESTC, I worked as a Research Technician at Kyushu University (2015-2016). \n
 
-My research interests mainly focus on multimedia information retrieval, especially cross-modal retrieval and knowledge transfer in integrating language and vision. I have published 60\+ academic papers (20\+ in CVPR, ACM MM, AAAI, TIP, TMM, TCYB, etc). I have served as reviewer for top conferences such as CVRP, ICCV, ACM MM, AAAI and top journals such as IEEE TIP, TNNLS, TMM, TCYB, leading guest editor for Journal of Visual Communication and Image Representation. 
+My research interests mainly focus on multimedia information retrieval, especially cross-modal retrieval and knowledge transfer in integrating language and vision. I have published 70\+ academic papers (30\+ in CVPR, ACM MM, AAAI, TIP, TMM, TCYB, etc). I have served as reviewer for top conferences such as CVRP, ICCV, ACM MM, AAAI and top journals such as IEEE TIP, TNNLS, TMM, TCYB, leading guest editor for Journal of Visual Communication and Image Representation. 
 I am the recipient of the Best Paper Award at ACM MM 2017 and the World's FIRST 10K Best Paper Award - Platinum Award at IEEE ICME 2017.
 In 2019, I received the Outstanding Young Researcher Award from the IEEE Computer Society, Special Technical Committee on Big Data.
 
 {{<FONT COLOR="FF0000">欢迎有志于从事计算机视觉、人工智能方向学术研究和算法开发的同学报考研究生~ 同时也欢迎计划保研和出国的同学提前参与实验室科研训练~</FONT>}} \n
 
 == News
-- /{{02/24/2020}}/ -- Two papers about cross-modal retrieval and adversarial attack on OCR are accepted to the 2020 IEEE International Conference on Computer Vision and Pattern Recognition (CVPR). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
-- /{{01/13/2020}}/ -- One paper about cross-modal retrieval is accepted to the IEEE Transactions on Neural Networks and Learning Systems (TNNLS). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
-- /{{11/12/2019}}/ -- One paper about zero-shot cross-modal retrieval is accepted to the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-2020). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+- /{{04/23/2020}}/ -- One paper about zero-shot cross-modal retrieval is accepted to the 43th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+- /{{03/29/2020}}/ -- One paper about visual question generation is accepted to the IEEE Transactions on Neural Networks and Learning Systems (TNNLS). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+- /{{03/06/2020}}/ -- Two papers about zero-shot cross-modal retrieval and adversarial attack on image captioning are accepted to the 2020 IEEE International Conference on Multimedia & Expo (ICME). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+- /{{02/24/2020}}/ -- Two papers about cross-modal matching and adversarial attack on OCR are accepted to the 2020 IEEE International Conference on Computer Vision and Pattern Recognition (CVPR). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+- /{{01/13/2020}}/ -- One paper about image-text matching is accepted to the IEEE Transactions on Neural Networks and Learning Systems (TNNLS). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+#- /{{11/12/2019}}/ -- One paper about zero-shot cross-modal retrieval is accepted to the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-2020). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
 - /{{06/01/2019}}/ -- We have organized a special issue titled ``Integrating Vision and Language for Semantic Knowledge Reasoning and Transfer" on Journal of Visual Communication and Image Representation. {{<FONT COLOR="FF0000">[CALL FOR PAPER]</FONT>}} \[ [https://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation/call-for-papers/integrating-vision-and-language-for-semantic-knowledge link] \]\n
 #- /{{07/06/2019}}/ -- Three papers are accepted to ACM Multimedia Conference (ACM MM) 2019. \n
 #- /{{06/28/2019}}/ -- One paper on Zero-shot Cross-modal Retrieval is accepted to IEEE Transactions on Cybernetics.\n
@@ -38,13 +41,23 @@ In 2019, I received the Outstanding Young Researcher Award from the IEEE Compute
 
 == Highlighted Research
 
-- Cross-Modal Retrieval
+- Multimodal Learning & Language and Vision
+
+~~~
+{}{img_left}{pictures/tnnls2020_vqg.jpg}{profile picture}{116px}{87px}{}
+*Radial Graph Convolutional Network for Visual Question Generation*\n
+*Xing Xu*, Tan Wang, Yang Yang, Alan Hanjalic and Heng Tao Shen.\n
+/IEEE Transactions on Neural Networks and Learning Systems/, 2020. \n
+\[ [publications/xing_tnnls2020_vqg.bib bibtex] \] 
+\[ [https://github.com/Wangt-CN/VQG-GCN code] \]
+~~~
 
 ~~~
 {}{img_left}{pictures/tnnls2020_xing.jpg}{profile picture}{116px}{87px}{}
 *Cross-Modal Attention with Semantic Consistence for Image-Text Matching*\n
-Xing Xu, Tan Wang, Yang Yang, Lin Zuo, Fumin Shen and Heng Tao Shen.\n
+*Xing Xu*, Tan Wang, Yang Yang, Lin Zuo, Fumin Shen and Heng Tao Shen.\n
 /IEEE Transactions on Neural Networks and Learning Systems/, 2020. \n
+\[ [https://dl.acm.org/citation.cfm?id=3123326 link] \]
 \[ [publications/xing_tnnls2020.bib bibtex] \] 
 \[ [https://github.com/Wangt-CN/Code_CASC code] \]
 ~~~
@@ -79,7 +92,7 @@ Bokun Wang, Yang Yang, *Xing Xu*, Alan Hanjalic and Heng Tao Shen.\n
 \[ [http://cfm.uestc.edu.cn/~fshen/MFMR.zip code] \]
 ~~~
 
-- Transfer Learning
+- Vision and Recognition
 
 ~~~
 {}{img_left}{pictures/cvpr2019_zhang.png}{profile picture}{116px}{92px}{}
@@ -103,7 +116,7 @@ Yaping Zhang, Shuai Nie, Wenju Liu, *Xing Xu*, Dongxiang Zhang, Heng Tao Shen.\n
 ~~~
 {}{img_left}{pictures/cvpr2017_xing.jpg}{profile picture}{116px}{92px}{}
 *Matrix Tri-Factorization with Manifold Regularizations for Zero-shot Learning*\n
-*Xing Xu*, Fumin Shen, Yang Yang, Dongxiang Zhang, Heng Tao Shen.\n
+*Xing Xu*, Fumin Shen, Yang Yang, Dongxiang Zhang, Heng Tao Shen and Jingkuan Song.\n
 /IEEE International Conference on Computer Vision and Pattern Recognition/, 2017.\n
 \[ [http://zpascal.net/cvpr2017/Xu_Matrix_Tri-Factorization_With_CVPR_2017_paper.pdf link] \] 
 \[ [publications/xing_cvpr2017.bib bibtex] \]
