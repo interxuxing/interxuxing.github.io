@@ -2,6 +2,10 @@
 
 = 2020
 
+# - Jiaxing Deng, Weihua Ou, Jianping Gou, Heping Song, Anzhi Wang and *Xing Xu*. "Representation Separation Adversarial Networks for Cross-Modal Retrieval", the 5th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2020. ({{<FONT COLOR="FF0000">Best Paper Award</FONT>}})
+
+- *Xing Xu*, Kaiyi Lin, Lianli Gao, Huimin Lu and Heng Tao Shen. "Learning Cross-Modal Common Representations by Private-Shared Subspaces Separation". IEEE Transactions on Cybernetics, 2020. (SCI, JCR-1)
+
 - *Xing Xu*, Kaiyi Lin, Huimin Lu, Lianli Gao and Heng Tao Shen. "Correlated Features Synthesis and Alignment for Zero-shot Cross-modal Retrieval". International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020. (CCF A)
 
 - Jingkuan Song, Ruimin Lang, Xiaosu Zhu, *Xing Xu*, Lianli Gao and Heng Tao Shen. "3D Self-Attention for Unsupervised Video Quantization". International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020. (CCF A)
@@ -54,7 +58,7 @@
 
 - *Xing Xu*, Xiang Zhou, Fumin Shen, Lianli Gao, Heng Tao Shen, Xuelong Li, “Fusion by Synthesizing: A Multi-View Deep Neural Network for Zero-Shot Recognition”, Signal Processing, 2019 (SCI) \n
 
-- *Xing Xu*, Li He, Huimin Lu, Lianli Gao, Yanli Ji, “Deep Adversarial Metric Learning for Cross-Modal Retrieval”, World Wide Web, 22(2): 657-672 (2019)  (SCI, CCF-B) \n
+- *Xing Xu*, Li He, Huimin Lu, Lianli Gao, Yanli Ji, “Deep Adversarial Metric Learning for Cross-Modal Retrieval”, World Wide Web, 22(2): 657-672 (2019)  (SCI, CCF-B, {{<FONT COLOR="FF0000">ESI Highly Cited Paper</FONT>}}) \n
 
 - Yaping Zhang, Shuai Nie, Wenju Liu, *Xing Xu*, Dongxiang Zhang, Heng Tao Shen, “Sequence-To-Sequence Domain Adaptation Network for Robust Text Image Recognition ”, IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2019. (CCF A, *Equal Contribution) 
 \[ [http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf link] \] 
@@ -71,7 +75,6 @@
 - Lianli Gao, Kaixuan Fan, Jingkuan Song, Xianglong Liu, *Xing Xu* and Heng Tao Shen. "Deliberate Residual based Attention Network for Image Captioning". The 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019. (CCF A) \n
 
 - Lei Wang, Dongxiang Zhang, Jipeng Zhang, *Xing Xu*, Lianli Gao, Bingtian Dai and Heng Tao Shen. "Template-Based MathWord Problem Solvers with Recursive Neural Networks". The 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019. (CCF A) \n
-
 
 
 = 2018
@@ -130,7 +133,7 @@
 
 -  *Xing Xu*, Fumin Shen, Yang Yang, Heng Tao Shen, Xuelong Li, "Learning Discriminative Binary Codes for Large-scale Cross-modal Retrieval", IEEE Transactions on Image Processing (TIP), 26:5, 2494-2507, 2017 (SCI, CCF A, {{<FONT COLOR="FF0000">ESI Highly Cited Paper</FONT>}})  \n
 
--  Lianli Gao, Zhao Guo, Hanwang Zhang, *Xing Xu*, Heng Tao Shen, "Videos Captioning with Attention-based LSTM and Semantic Consistency", IEEE Transactions on Multimedia (TMM), 19:9, 0245-2055, 2017 (SCI, {{<FONT COLOR="FF0000">ESI Highly Cited Paper</FONT>}}) \n
+-  Lianli Gao, Zhao Guo, Hanwang Zhang, *Xing Xu*, Heng Tao Shen, "Videos Captioning with Attention-based LSTM and Semantic Consistency", IEEE Transactions on Multimedia (TMM), 19:9, 0245-2055, 2017 (SCI, {{<FONT COLOR="FF0000">ESI Highly Cited Paper</FONT>}}, {{<FONT COLOR="FF0000">2020 IEEE Multimedia Prize Paper</FONT>}}) \n
 
 -  Yan Xu, Fumin Shen, *Xing Xu*, Lianli Gao, Yuan Wang, Xiao Tan, "Large-scale Image Retrieval with Supervised Sparse Hashing", 229, 45-53, Neurocomputing, 2017 (SCI) \n
 
