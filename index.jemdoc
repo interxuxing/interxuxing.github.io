@@ -1,0 +1,157 @@
+# jemdoc: menu{MENU}{index.html}
+= Xing Xu 
+
+~~~
+{}{img_left}{pictures/profile_xing.jpg}{profile picture}{150px}{180px}{}
+*Xing Xu (徐 行)* [https://scholar.google.com/citations?hl=en&user=aTWbAiEAAAAJ&view_op=list_works&gmla=AJsN-F465dfbHP9CdGL1AfqODfNuclkloKqbIwLVHn2tddZEnnxf4b5TXx4L919LqAjkNxojFs3f6osR9osAMCxTeeyHqIrZnk2w8qYhgBygchDF8Y0PzNgS1N6Ma4ozMU30TbNhRkmT \[Google Scholar\]]
+\n
+Researcher (研究员) \n
+[http://cfm.uestc.edu.cn/index Center for Future Media]\n
+[http://www.scse.uestc.edu.cn/ School of Computer Science and Engineering]\n
+[https://www.uestc.edu.cn/ Univeristy of Electronic Science and Technology of China, China]\n
+Email: xing.xu \[at\] uestc \[dot\] edu \[dot\] cn
+
+#(Publish under {{<FONT COLOR="FF0000">Y.-W. Chao</FONT>}})\n
+~~~
+
+== About Me
+I am currently a Researcher with Center of Future Media & School of Computer Science and Engineering, University of Electronic of Science and Technology of China (UESTC), China. I received the B.E. and M.E. degrees from Huazhong University of Science and Technology, China, in 2009 and 2012, respectively, and the Ph.D. degree from Kyushu University, Japan, in 2015. Before joining UESTC, I worked as a Research Technician at Kyushu University (2015-2016). \n
+
+My research interests mainly focus on multimedia information retrieval, especially cross-modal retrieval and knowledge transfer in integrating language and vision. I have published 100\+ academic papers (50\+ in CVPR, ICCV, ACM Multimedia, ACM SIGIR, AAAI, TPAMI, TIP, TMM, TCSVT, TCYB, TNNLS). 
+I am the recipient of the Best Paper Award at ACM MM 2017, the World's FIRST 10K Best Paper Award - Platinum Award at IEEE ICME 2017, the Best Paper Award at ISAIR 2020 and IEEE Multimedia Prize Paper Award 2020.
+In 2019, I received the Outstanding Young Researcher Award from the IEEE Computer Society, Special Technical Committee on Big Data.
+
+{{<FONT COLOR="FF0000">欢迎有志于从事计算机视觉、人工智能方向学术研究和算法开发的同学报考研究生~ 同时也欢迎计划保研和出国的同学提前参与实验室科研训练~</FONT>}} \n
+
+== News
+
+- /{{2022/07/02}}/ -- 4 papers about Adversarial Attack on Image Retrieval, Visual-Audio Event Localization, Zero-shot Sketch-based Image Retrieval, Visual-Audio Fine-Grained Recognition are accepted by ACM Multimedia 2022! Congratulations to Siyuan, Xun, Kai and Xiaoyu! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+
+- /{{2022/04/08}}/ -- 2 papers about Black-box Adversarial Attack and Action Recognition are accepted by ICMR 2022! Congratulations to Siyuan and Yiran! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+
+- /{{2022/03/31}}/ -- 2 papers about Zero-shot Sketch-based Image Retrieval and Universal Cross-domain Retrieval are accepted by SIGIR 2022! Congratulations to Jialin and Kai! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+
+- /{{2022/03/09}}/ -- 3 papers about Cross-modal Retrieval, Video Localization and Human Pose Estimation are accepted by ICME 2022! Congratulations to Kai, Xun and Yixuan! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+
+- /{{2022/03/03}}/ -- 1 paper about Video Paragraph Grounding is accepted by CVPR 2022! Congratulations to Xun! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+
+- /{{2021/12/01}}/ -- 1 paper about Zero-shot Sketch-based Image Retrieval is accepted by AAAI 2022. Congratulations to Jialin! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+
+#- /{{06/25/2020}}/ -- One paper about cross-modal retrieval is accepted to IEEE Transactions on Cybernetics. {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+#- /{{04/23/2020}}/ -- One paper about zero-shot cross-modal retrieval is accepted to the 43th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+#- /{{03/29/2020}}/ -- One paper about visual question generation is accepted to the IEEE Transactions on Neural Networks and Learning Systems (TNNLS). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+#- /{{03/06/2020}}/ -- Two papers about zero-shot cross-modal retrieval and adversarial attack on image captioning are accepted to the 2020 IEEE International Conference on Multimedia & Expo (ICME). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+#- /{{02/24/2020}}/ -- Two papers about cross-modal matching and adversarial attack on OCR are accepted to the 2020 IEEE International Conference on Computer Vision and Pattern Recognition (CVPR). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+#- /{{01/13/2020}}/ -- One paper about image-text matching is accepted to the IEEE Transactions on Neural Networks and Learning Systems (TNNLS). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+#- /{{11/12/2019}}/ -- One paper about zero-shot cross-modal retrieval is accepted to the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-2020). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+#- /{{06/01/2019}}/ -- We have organized a special issue titled ``Integrating Vision and Language for Semantic Knowledge Reasoning and Transfer" on Journal of Visual Communication and Image Representation. {{<FONT COLOR="FF0000">[CALL FOR PAPER]</FONT>}} \[ [https://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation/call-for-papers/integrating-vision-and-language-for-semantic-knowledge link] \]\n
+#- /{{07/06/2019}}/ -- Three papers are accepted to ACM Multimedia Conference (ACM MM) 2019. \n
+#- /{{06/28/2019}}/ -- One paper on Zero-shot Cross-modal Retrieval is accepted to IEEE Transactions on Cybernetics.\n
+#- /{{03/15/2019}}/ -- One paper on Zero-shot Learning is accepted to Signal Processing.\n
+#- /{{06/06/2016}}/ -- Start an internship at [https://research.adobe.com/ Adobe Research].\n
+#- /{{03/10/2016}}/ -- I am awarded the [http://googleresearch.blogspot.com/2016/03/announcing-2016-google-phd-fellows-for.html 2016 Google PhD Fellowship]. Thank you Google!\n
+
+
+
+== Highlighted Research
+
+~~~
+{}{img_left}{pictures/tmm2022_wang.jpg}{profile picture}{116px}{87px}{}
+*Cross-Modal Dynamic Networks for Video Moment Retrieval With Text Query*\n
+Gongmian Wang, *Xing Xu*, Fumin Shen, Huimin Lu, Yanli Ji, Heng Tao Shen.\n
+/IEEE Transactions on Multimedia/, 2022. \n
+\[ [https://ieeexplore.ieee.org/document/9681153 link] \]
+\[ [https://github.com/CFM-MSG/Code_CDN code] \]
+~~~
+
+~~~
+{}{img_left}{pictures/tpami2021_wei.jpg}{profile picture}{116px}{87px}{}
+*Universal Weighting Metric Learning for Cross-Modal Retrieval*\n
+Jiwei Wei, Yang Yang, *Xing Xu*, Xiaofeng Zhu, Heng Tao Shen.\n
+/IEEE Transactions on Pattern Analysis and Machine Intelligence/, 2021. \n
+\[ [https://ieeexplore.ieee.org/document/9454290 link] \]
+\[ [https://github.com/CFM-MSG/PolyLoss code] \]
+~~~
+
+~~~
+{}{img_left}{pictures/tpami2020_xing.jpg}{profile picture}{116px}{87px}{}
+*Joint Feature Synthesis and Embedding: Adversarial Cross-modal Retrieval Revisited*\n
+*Xing Xu*, Kaiyi Lin, Yang Yang, Alan Hanjalic, Heng Tao Shen.\n
+/IEEE Transactions on Pattern Analysis and Machine Intelligence/, 2020. \n
+\[ [https://ieeexplore.ieee.org/document/9296975/ link] \]
+\[ [https://github.com/CFM-MSG/Code_JFSE code] \]
+~~~
+
+~~~
+{}{img_left}{pictures/tnnls2020_vqg.jpg}{profile picture}{116px}{87px}{}
+*Radial Graph Convolutional Network for Visual Question Generation*\n
+*Xing Xu*, Tan Wang, Yang Yang, Alan Hanjalic and Heng Tao Shen.\n
+/IEEE Transactions on Neural Networks and Learning Systems/, 2020. \n
+\[ [https://ieeexplore.ieee.org/document/9079208 link] \] 
+\[ [https://github.com/Wangt-CN/VQG-GCN code] \]
+~~~
+
+~~~
+{}{img_left}{pictures/tnnls2020_xing.jpg}{profile picture}{116px}{87px}{}
+*Cross-Modal Attention with Semantic Consistence for Image-Text Matching*\n
+*Xing Xu*, Tan Wang, Yang Yang, Lin Zuo, Fumin Shen and Heng Tao Shen.\n
+/IEEE Transactions on Neural Networks and Learning Systems/, 2020. \n
+\[ [https://dl.acm.org/citation.cfm?id=3123326 link] \]
+\[ [https://github.com/Wangt-CN/Code_CASC code] \]
+~~~
+
+~~~
+{}{img_left}{pictures/mm2019_tan.png}{profile picture}{116px}{87px}{}
+*Matching Images and Text with Multi-modal Tensor Fusion and Re-ranking*\n
+Tan Wang, *Xing Xu*, Yang Yang, Alan Hanjalic, Heng Tao Shen and Jingkuan Song.\n
+/ACM International Conference on Multimedia/, 2019. (*Corresponding Author) \n
+\[ [https://arxiv.org/abs/1908.04011 link] \] 
+\[ [https://github.com/Wangt-CN/MTFN-RR-PyTorch-Code code] \]
+~~~
+
+~~~
+{}{img_left}{pictures/mm2017_bokun.jpg}{profile picture}{116px}{87px}{}
+*Adversarial Cross-Modal Retrieval*\n
+Bokun Wang, Yang Yang, *Xing Xu*, Alan Hanjalic and Heng Tao Shen.\n
+/ACM International Conference on Multimedia/, 2017. {{<FONT COLOR="FF0000">Best Paper Award</FONT>}}\n
+\[ [https://dl.acm.org/citation.cfm?id=3123326 link] \] 
+\[ [https://github.com/sunpeng981712364/ACMR_demo code] \]
+~~~
+
+~~~
+{}{img_left}{pictures/tip2017_xing.jpg}{profile picture}{116px}{87px}{}
+*Learning Discriminative Binary Codes for Large-scale Cross-modal Retrieval*\n
+*Xing Xu*, Fumin Shen, Yang Yang, Heng Tao Shen, Xuelong Li. \n
+/IEEE Transactions on Image Processing (TIP)/, 26:5, 2494-2507, 2017. {{<FONT COLOR="FF0000">ESI Highly Cited Paper</FONT>}}\n
+\[ [https://ieeexplore.ieee.org/abstract/document/7867785/ link] \] 
+\[ [http://cfm.uestc.edu.cn/~fshen/MFMR.zip code] \]
+~~~
+
+
+== Awards
+
+- 学术新人奖, 电子科技大学, 2020
+- Best Paper Award, the 5th International Symposium on Artificial Intelligence and Robotics (ISAIR2020) \n
+- IEEE Multimedia Prize Paper Award (2020) \n
+- Outstanding Young Researcher Award, IEEE Computer Society, Special Technical Committee on Big Data, 2019 \n
+- Best Paper Award, the 25th ACM International Conference on Multimedia (MM 2017) \n
+- World’s FIRST 10K Best Paper Award-Platinum Award, the 18th IEEE International Conference on Multimedia & Expo (ICME 2017) \n
+- Best Student Paper Award, the 28th Edition of the Australasian Database Conference (ADC 2017) \n
+- Excellent Poster Award, the 21th Japan-Korea Joint Workshop on Frontiers of Computer Vision (FCV 2015) \n
+
+
+== Teaching
+
+- Advanced Computer Vision (Graduate) \n
+- Computer Vision and Pattern Recognition (Undergraduate) \n
+- Principle and Application of Microcomputer (Foreign Undergraduate) \n
+- Principle and Application of Microcomputer (Undergraduate) \n
+
+
+# == Contact
+# *Office:*\n
+# University of Michigan,\n
+# Computer Science and Engineering,\n
+
+# *Email:*
+# ywchao \[at\] umich \[dot\] edu
