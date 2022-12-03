@@ -5,7 +5,7 @@
 {}{img_left}{pictures/profile_xing.jpg}{profile picture}{150px}{180px}{}
 *Xing Xu (徐 行)* [https://scholar.google.com/citations?hl=en&user=aTWbAiEAAAAJ&view_op=list_works&gmla=AJsN-F465dfbHP9CdGL1AfqODfNuclkloKqbIwLVHn2tddZEnnxf4b5TXx4L919LqAjkNxojFs3f6osR9osAMCxTeeyHqIrZnk2w8qYhgBygchDF8Y0PzNgS1N6Ma4ozMU30TbNhRkmT \[Google Scholar\]]
 \n
-Researcher (研究员) \n
+Researcher Fellow (研究员) \n
 [http://cfm.uestc.edu.cn/index Center for Future Media]\n
 [http://www.scse.uestc.edu.cn/ School of Computer Science and Engineering]\n
 [https://www.uestc.edu.cn/ Univeristy of Electronic Science and Technology of China, China]\n
@@ -15,15 +15,16 @@ Email: xing.xu \[at\] uestc \[dot\] edu \[dot\] cn
 ~~~
 
 == About Me
-I am currently a Researcher with Center of Future Media & School of Computer Science and Engineering, University of Electronic of Science and Technology of China (UESTC), China. I received the B.E. and M.E. degrees from Huazhong University of Science and Technology, China, in 2009 and 2012, respectively, and the Ph.D. degree from Kyushu University, Japan, in 2015. Before joining UESTC, I worked as a Research Technician at Kyushu University (2015-2016). \n
+I am currently a Researcher Fellow with Center of Future Media & School of Computer Science and Engineering, University of Electronic of Science and Technology of China (UESTC), China. I received the B.E. and M.E. degrees from Huazhong University of Science and Technology, China, in 2009 and 2012, respectively, and the Ph.D. degree from Kyushu University, Japan, in 2015. Before joining UESTC, I worked as a Research Technician at Kyushu University (2015-2016). \n
 
-My research interests mainly focus on multimedia information retrieval, especially cross-modal retrieval and knowledge transfer in integrating language and vision. I have published 100\+ academic papers (50\+ in CVPR, ICCV, ACM Multimedia, ACM SIGIR, AAAI, TPAMI, TIP, TMM, TCSVT, TCYB, TNNLS). 
-I am the recipient of the Best Paper Award at ACM MM 2017, the World's FIRST 10K Best Paper Award - Platinum Award at IEEE ICME 2017, the Best Paper Award at ISAIR 2020 and IEEE Multimedia Prize Paper Award 2020.
+My research interests mainly focus on multimedia information retrieval, especially cross-modal retrieval and knowledge transfer in integrating language and vision. I have published 100\+ academic papers (60\+ in CVPR, ICCV, ACM Multimedia, ACM SIGIR, AAAI, TPAMI, TIP, TMM, TCSVT, TCYB, TNNLS). 
+I am the recipient of the Best Paper Award at ACM MM 2017, the World's FIRST 10K Best Paper Award - Platinum Award at IEEE ICME 2017, the Best Paper Award at ISAIR 2020, IEEE Multimedia Prize Paper Award 2020 and the Best Student Paper at IEEE ICME 2022.
 In 2019, I received the Outstanding Young Researcher Award from the IEEE Computer Society, Special Technical Committee on Big Data.
 
 {{<FONT COLOR="FF0000">欢迎有志于从事计算机视觉、人工智能方向学术研究和算法开发的同学报考研究生~ 同时也欢迎计划保研和出国的同学提前参与实验室科研训练~</FONT>}} \n
 
 == News
+- /{{2022/11/19}}/ -- 1 paper about Fine-tuning on Pre-trained Document Image Models is accepted by AAAI 2023! Congratulations to Lei and Jiabang! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
 
 - /{{2022/07/22}}/ -- Our joint work with Meituan has won the [https://2022.ieeeicme.org/awards-best-student-paper.html "Best Student Paper Award"] on ICME 2022! Congratulations! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
 
@@ -37,7 +38,7 @@ In 2019, I received the Outstanding Young Researcher Award from the IEEE Compute
 
 - /{{2022/03/03}}/ -- 1 paper about Video Paragraph Grounding is accepted by CVPR 2022! Congratulations to Xun! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
 
-- /{{2021/12/01}}/ -- 1 paper about Zero-shot Sketch-based Image Retrieval is accepted by AAAI 2022. Congratulations to Jialin! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+#- /{{2021/12/01}}/ -- 1 paper about Zero-shot Sketch-based Image Retrieval is accepted by AAAI 2022. Congratulations to Jialin! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
 
 #- /{{06/25/2020}}/ -- One paper about cross-modal retrieval is accepted to IEEE Transactions on Cybernetics. {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
 #- /{{04/23/2020}}/ -- One paper about zero-shot cross-modal retrieval is accepted to the 43th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020). {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
