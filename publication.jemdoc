@@ -54,6 +54,8 @@
 
 = Conference Papers
 
+-  Jiabang He, Yi Hu, Lei Wang, *Xing Xu*, Ning Liu, Hui Liu and Heng Tao Shen: Do-GOOD: Towards Distribution Shift Evaluation for Pre-Trained Visual Document Understanding Models. The 46th International ACM SIGIR Conference on Research and Development (SIGIR) 2023 (CCF A, Corresponding author) \n
+
 -  Lei Wang, Jiabang He, *Xing Xu*, Ning Liu and Hui Liu: Alignment-Enriched Tuning for Patch-Level Pre-trained Document Image Models. Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) 2023 (CCF A, Corresponding author) \[ [https://github.com/MAEHCM/AET code] \] \n
 
 -  Jialin Tian, Kai Wang, *Xing Xu*, Zuo Cao, Fumin Shen, Heng Tao Shen: Multimodal Disentanglement Variational AutoEncoders for Zero-Shot Cross-Modal Retrieval. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2022 (CCF A, Corresponding author) \n
