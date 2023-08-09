@@ -17,25 +17,33 @@ Email: xing.xu \[at\] uestc \[dot\] edu \[dot\] cn
 == About Me
 I am currently a Researcher Fellow with Center of Future Media & School of Computer Science and Engineering, University of Electronic of Science and Technology of China (UESTC), China. I received the B.E. and M.E. degrees from Huazhong University of Science and Technology, China, in 2009 and 2012, respectively, and the Ph.D. degree from Kyushu University, Japan, in 2015. Before joining UESTC, I worked as a Research Technician at Kyushu University (2015-2016). \n
 
-My research interests mainly focus on multimedia information retrieval, especially cross-modal retrieval and knowledge transfer in integrating language and vision. I have published 100\+ academic papers (60\+ in CVPR, ICCV, ACM Multimedia, ACM SIGIR, AAAI, TPAMI, TIP, TMM, TCSVT, TCYB, TNNLS). 
-I am the recipient of the Best Paper Award at ACM MM 2017, the World's FIRST 10K Best Paper Award - Platinum Award at IEEE ICME 2017, the Best Paper Award at ISAIR 2020, IEEE Multimedia Prize Paper Award 2020 and the Best Student Paper at IEEE ICME 2022.
+My research interests mainly focus on multimedia information retrieval, especially cross-modal retrieval and knowledge transfer in integrating language and vision. I have published 100\+ academic papers (70\+ in CVPR, ICCV, ACM Multimedia, ACM SIGIR, AAAI, TPAMI, TIP, IJCV, TMM, TCSVT, TCYB, TNNLS, etc). 
+I am the recipient of the Best Paper Award at ACM MM 2017, the World's FIRST 10K Best Paper Award - Platinum Award at IEEE ICME 2017, the Best Paper Award at ISAIR 2020, IEEE Multimedia Prize Paper Award 2020 and the Best Student Paper at IEEE ICME 2022, Outstanding Paper Award at IEEE Transactions on Fuzzy Systems 2024.
 In 2019, I received the Outstanding Young Researcher Award from the IEEE Computer Society, Special Technical Committee on Big Data.
 
 {{<FONT COLOR="FF0000">欢迎有志于从事计算机视觉、人工智能方向学术研究和算法开发的同学报考研究生~ 同时也欢迎计划保研和出国的同学提前参与实验室科研训练~</FONT>}} \n
 
 == News
 
+- /{{2023/08/05}}/ -- 1 paper about Composed Query-Based Image Retrieval is accepted by IEEE Transactions on Circuits and Systems for Video Technology! Congratulations to Shenshen Li! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+
+- /{{2023/07/26}}/ -- 3 paper about Text-based Person Retrieval and Video Content Moment Retrieval are accepted by ACM Multimedia 2023! Congratulations to Shenshen Li, Xun Jiang, Zhiguo Chen, and Zailei Zhou! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+
+- /{{2023/07/18}}/ -- 2 paper about Class-Imbalanced Recognition and Prompt Learning for Visual Document Understanding are accepted by ICCV 2023! Congratulations to Yixuan Zhou, Jiabang He, Yi Hu and Lei Wang! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+
+- /{{2023/07/12}}/ -- Our paper "Deep Fuzzy Hashing Network for Efficient Image Retrieval" has received the 2024 IEEE Transactions on Fuzzy Systems Outstanding Paper Award! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+
 - /{{2023/04/06}}/ -- 1 paper about Multi-modal Pre-trained Model for Visual Document Understanding is accepted by SIGIR 2023! Congratulations to Jiabang He, Yi Hu and Lei Wang! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
 
-- /{{2023/04/01}}/ -- 2 paper about Image-Text Retrieval and Zero-shot Sketch-based Image Retrieval are accepted by ICMR 2023! Congratulations to Shenshen Li and Jialin Tian! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+# - /{{2023/04/01}}/ -- 2 paper about Image-Text Retrieval and Zero-shot Sketch-based Image Retrieval are accepted by ICMR 2023! Congratulations to Shenshen Li and Jialin Tian! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
 
-- /{{2023/03/15}}/ -- 3 paper about Black-box Domain Adaptation, Unsupervised Domain Adaptation, Video Event Grounding are accepted by ICME 2023! Congratulations to Kai Wang, Jun Xie and Xun Jiang! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+# - /{{2023/03/15}}/ -- 3 paper about Black-box Domain Adaptation, Unsupervised Domain Adaptation, Video Event Grounding are accepted by ICME 2023! Congratulations to Kai Wang, Jun Xie and Xun Jiang! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
 
-- /{{2022/11/19}}/ -- 1 paper about Fine-tuning on Pre-trained Document Image Models is accepted by AAAI 2023! Congratulations to Lei Wang and Jiabang He! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+# - /{{2022/11/19}}/ -- 1 paper about Fine-tuning on Pre-trained Document Image Models is accepted by AAAI 2023! Congratulations to Lei Wang and Jiabang He! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
 
 - /{{2022/07/22}}/ -- Our joint work with Meituan has won the [https://2022.ieeeicme.org/awards-best-student-paper.html "Best Student Paper Award"] on ICME 2022! Congratulations! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
 
-- /{{2022/07/02}}/ -- 4 papers about Adversarial Attack on Image Retrieval, Visual-Audio Event Localization, Zero-shot Sketch-based Image Retrieval, Visual-Audio Fine-Grained Recognition are accepted by ACM Multimedia 2022! Congratulations to Siyuan Li, Xun Jiang, Kai Wang and Xiaoyu Zhou! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
+# - /{{2022/07/02}}/ -- 4 papers about Adversarial Attack on Image Retrieval, Visual-Audio Event Localization, Zero-shot Sketch-based Image Retrieval, Visual-Audio Fine-Grained Recognition are accepted by ACM Multimedia 2022! Congratulations to Siyuan Li, Xun Jiang, Kai Wang and Xiaoyu Zhou! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
 
 #- /{{2022/04/08}}/ -- 2 papers about Black-box Adversarial Attack and Action Recognition are accepted by ICMR 2022! Congratulations to Siyuan and Yiran! {{<FONT COLOR="FF0000">[NEW]</FONT>}} \n
 
@@ -140,6 +148,7 @@ Bokun Wang, Yang Yang, *Xing Xu*, Alan Hanjalic and Heng Tao Shen.\n
 
 == Awards
 
+- Outstanding Paper Award, IEEE Transactions on Fuzzy Systems (2024) \n
 - Best Student Paper Award, the 23th IEEE International Conference on Multimedia & Expo (ICME 2022) \n
 - 学术新人奖, 电子科技大学, 2020
 - Best Paper Award, the 5th International Symposium on Artificial Intelligence and Robotics (ISAIR2020) \n

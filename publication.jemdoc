@@ -4,12 +4,18 @@
 
 = Journal Papers
 
--  Xun Jiang, *Xing Xu*, Jingran Zhang, Fumin Shen, Zuo Cao, and Heng Tao Shen. “SDN: Semantic Decoupling Network for Temporal Language Grounding”. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. (中科院JCR 1区, Corresponding author) \[ [https://github.com/CFM-MSG/Code_SDN code] \] \n
+- Shenshen Li, *Xing Xu*, Xun Jiang, Fumin Shen, Xin Liu, and Heng Tao Shen: Multi-Grained Attention Network with Mutual Exclusion for Composed Query-Based Image Retrieval. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023. (中科院JCR 1区, Corresponding author) \[ [https://github.com/CFM-MSG/Code_MANME code] \] \n
 
--  *Xing Xu*, Jialiang Sun, Zuo Cao, Xiaofeng Zhu, Yin Zhang, Heng Tao Shen: TFUN: Trilinear Fusion Network for Ternary Image-Text Retrieval. Information Fusion. 2022 (中科院JCR 1区, Corresponding author) \n
+-  Xun Jiang, *Xing Xu*, Jingran Zhang, Fumin Shen, Zuo Cao, and Heng Tao Shen: SDN: Semantic Decoupling Network for Temporal Language Grounding. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. (中科院JCR 1区, Corresponding author) \[ [https://github.com/CFM-MSG/Code_SDN code] \] \n
+
+-  *Xing Xu*, Jialiang Sun, Zuo Cao, Xiaofeng Zhu, Yin Zhang, Heng Tao Shen: TFUN: Trilinear Fusion Network for Ternary Image-Text Retrieval. Information Fusion. 2022 (中科院JCR 1区, Corresponding author) \[ [https://github.com/CFM-MSG/Code_TFUN code] \] \n
 
 -  Gongmian Wang, *Xing Xu*, Fumin Shen, Huimin Lu, Yanli Ji, Heng Tao Shen: Cross-Modal Dynamic Networks for Video Moment Retrieval With Text Query. IEEE Trans. Multim. 24: 1221-1232 (2022) (中科院JCR 2区)
 \[ [https://github.com/CFM-MSG/Code_CDN code] \] \n
+
+- Yixuan He, *Xing Xu*, Jingran Zhang, Fumin Shen, Yang Yang, Heng Tao Shen: Modeling Two-Stream Correspondence for Visual Sound Separation. IEEE Trans. Circuits Syst. Video Technol. 32(5): 3291-3302 (2022) (中科院JCR 2区) \n
+
+- Xianda Xu, *Xing Xu*, Fumin Shen, Yujie Li: Semantic-Aligned Attention With Refining Feature Embedding for Few-Shot Image Classification. IEEE Trans. Intell. Transp. Syst. 23(12): 25458-25468 (2022) \n
 
 -  Tian Wang, *Xing Xu*, Fumin Shen, Yang Yang: A Cognitive Memory-Augmented Network for Visual Anomaly Detection. IEEE CAA J. Autom. Sinica 8(7): 1296-1307 (2021) (中科院JCR 1区, Corresponding author) 
 \[ [https://github.com/CFM-MSG/CMAN_pytorch code] \] \n
@@ -22,7 +28,7 @@
 
 -  Yifeng Zhou, *Xing Xu*, Fumin Shen, Xiaofeng Zhu, Heng Tao Shen: Flow-Edge Guided Unsupervised Video Object Segmentation. IEEE Transactions on Circuits and Systems for Video Technology (2021) (中科院JCR 2区, Corresponding author) \n
 
--  Huimin Lu, Ming Zhang, *Xing Xu*, Yujie Li, Heng Tao Shen: Deep Fuzzy Hashing Network for Efficient Image Retrieval. IEEE Transactions on Fuzzy Systems 29(1): 166-176 (2021) (中科院JCR 1区, Corresponding author, {{<FONT COLOR="FF0000">ESI Highly Cited Papers</FONT>}})\n
+-  Huimin Lu, Ming Zhang, *Xing Xu*, Yujie Li, Heng Tao Shen: Deep Fuzzy Hashing Network for Efficient Image Retrieval. IEEE Transactions on Fuzzy Systems 29(1): 166-176 (2021) (中科院JCR 1区, Corresponding author, {{<FONT COLOR="FF0000">ESI Highly Cited Papers, Outstanding Paper Award</FONT>}})\n
 
 -  *Xing Xu*, Tan Wang, Yang Yang, Alan Hanjalic, Heng Tao Shen: Radial Graph Convolutional Network for Visual Question Generation. IEEE Transactions on Neural Networks and Learning Systems 32(4): 1654-1667 (2021)  (中科院JCR 1区)
 \[ [https://github.com/CFM-MSG/VQG-GCN code] \] \n
@@ -32,7 +38,7 @@
 
 -  Xiang Guan, Yang Yang, Jingjing Li, *Xing Xu*, Heng Tao Shen: Mind the Remainder: Taylor's Theorem View on Recurrent Neural Networks. IEEE Transactions on Neural Networks and Learning Systems (2020)  (中科院JCR 1区)\n
 
--  *Xing Xu*, Kaiyi Lin, Yang Yang, Alan Hanjalic, Heng Tao Shen: Joint Feature Synthesis and Embedding: Adversarial Cross-modal Retrieval Revisited. IEEE Transactions on Pattern Analysis and Machine Intelligence (2020)  (中科院JCR 1区)
+-  *Xing Xu*, Kaiyi Lin, Yang Yang, Alan Hanjalic, Heng Tao Shen: Joint Feature Synthesis and Embedding: Adversarial Cross-modal Retrieval Revisited. IEEE Transactions on Pattern Analysis and Machine Intelligence (2020)  (中科院JCR 1区, {{<FONT COLOR="FF0000">ESI Highly Cited Papers</FONT>}})\n
 \[ [https://github.com/CFM-MSG/Code_JFSE code] \] \n
 
 -  Jingkuan Song, Tao He, Lianli Gao, *Xing Xu*, Alan Hanjalic, Heng Tao Shen: Unified Binary Generative Adversarial Network for Image Retrieval and Compression. International Journal of Computer Vision 128(8): 2243-2264 (2020)  (中科院JCR 1区)\n
@@ -54,9 +60,33 @@
 
 = Conference Papers
 
--  Jiabang He, Yi Hu, Lei Wang, *Xing Xu*, Ning Liu, Hui Liu and Heng Tao Shen: Do-GOOD: Towards Distribution Shift Evaluation for Pre-Trained Visual Document Understanding Models. The 46th International ACM SIGIR Conference on Research and Development (SIGIR) 2023 (CCF A, Corresponding author) \n
+- Shenshen Li, *Xing Xu*, Yang Yang, Fumin Shen, Yijun Mo, Yujie Li, Heng Tao Shen: DCEL: Deep Cross-Modal Evidential Learning for Text-Based Person Retrieval. ACM International Conference on Multimedia (ACM MM), 2023. (CCF A, Corresponding author) \[ [https://github.com/CFM-MSG/Code_DCEL code] \] \n
+
+- Zhiguo Chen, Xun Jiang, *Xing Xu*, Zuo Cao, Yijun Mo, Heng Tao Shen: Joint Searching and Grounding: Multi-Granularity Video Content Retrieval. ACM International Conference on Multimedia (ACM MM), 2023. (CCF A, Corresponding author) \[ [https://github.com/CFM-MSG/Code_JSG code] \] \n
+
+- Xun Jiang, Zailei Zhou, *Xing Xu*, Yang Yang, Guoqing Wang, Heng Tao Shen: Faster Video Moment Retrieval with Point-Level Supervision. ACM International Conference on Multimedia (ACM MM), 2023. (CCF A, Corresponding author) \[ [https://github.com/CFM-MSG/Code_CFMR code] \] \n
+
+- Guancheng Chen, Xin Liu, Xing Xu, Yiu-ming Cheung, Taihao Li: Taking a Part for the Whole: An Archetype-agnostic Framework for Voice-Face Association. ACM International Conference on Multimedia (ACM MM), 2023. \n
+
+- Yixuan Zhou, Yi Qu, *Xing Xu*, Heng Tao Shen: ImbSAM: A Closer Look at Sharpness-Aware Minimization in Class-Imbalanced Recognition. International Conference on Computer Vision (ICCV), 2023. (CCF A, Corresponding author) \n
+
+- Jiabang He, Lei Wang, Yi Hu, Ning Liu, Hui Liu, *Xing Xu*, Heng Tao Shen: ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction. International Conference on Computer Vision (ICCV), 2023. (CCF A, Corresponding author) \n
+
+-  Jiabang He, Yi Hu, Lei Wang, *Xing Xu*, Ning Liu, Hui Liu and Heng Tao Shen: Do-GOOD: Towards Distribution Shift Evaluation for Pre-Trained Visual Document Understanding Models. The 46th International ACM SIGIR Conference on Research and Development (SIGIR) 2023 (CCF A, Corresponding author) \[ [https://github.com/MAEHCM/Do-GOOD code] \] \n
 
 -  Lei Wang, Jiabang He, *Xing Xu*, Ning Liu and Hui Liu: Alignment-Enriched Tuning for Patch-Level Pre-trained Document Image Models. Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) 2023 (CCF A, Corresponding author) \[ [https://github.com/MAEHCM/AET code] \] \n
+
+-  Kai Wang, Yifan Wang, *Xing Xu*, Xin Liu, Weihua Ou, Huimin Lu:
+Prototype-based Selective Knowledge Distillation for Zero-Shot Sketch Based Image Retrieval. ACM Multimedia 2022: 601-609 (CCF A, Corresponding author) \n
+
+-  Siyuan Li, *Xing Xu*, Zailei Zhou, Yang Yang, Guoqing Wang, Heng Tao Shen: ARRA: Absolute-Relative Ranking Attack against Image Retrieval. ACM Multimedia 2022: 610-618 (CCF A) \n
+
+-  Xun Jiang, *Xing Xu*, Zhiguo Chen, Jingran Zhang, Jingkuan Song, Fumin Shen, Huimin Lu, Heng Tao Shen: DHHN: Dual Hierarchical Hybrid Network for Weakly-Supervised Audio-Visual Video Parsing. ACM Multimedia 2022: 719-727 (CCF A) \n
+
+-  Zeyu Ma, Yang Yang, Guoqing Wang, *Xing Xu*, Heng Tao Shen, Mingxing Zhang:
+Rethinking Open-World Object Detection in Autonomous Driving Scenarios. ACM Multimedia 2022: 1279-1288 (CCF A) \n
+
+-  Zheng Wang, Zhenwei Gao, *Xing Xu*, Yadan Luo, Yang Yang, Heng Tao Shen: Point to Rectangle Matching for Image Text Retrieval. ACM Multimedia 2022: 4977-4986 (CCF A) \n
 
 -  Jialin Tian, Kai Wang, *Xing Xu*, Zuo Cao, Fumin Shen, Heng Tao Shen: Multimodal Disentanglement Variational AutoEncoders for Zero-Shot Cross-Modal Retrieval. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2022 (CCF A, Corresponding author) \n
 
