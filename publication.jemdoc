@@ -4,7 +4,11 @@
 
 = Journal Papers
 
-- Jiefu Chen, Tong Chen, *Xing Xu*, Jingran Zhang, Yang Yang, Heng Tao Shen: Coreset Learning based Sparse Black-box Adversarial Attack for Video Recognition. IEEE Transactions on Information Forensics & Security, 2023. (中科院JCR 1区, Corresponding author) \n
+- Jialin Tian, Abdulmotaleb El Saddik, *Xing Xu*, Dongshuai Li, Zuo Cao, Heng Tao Shen: Intrinsic Consistency Preservation with Adaptively Reliable Samples for Source-free Domain Adaptation. (中科院JCR 1区, Corresponding author) \[ [https://github.com/CFM-MSG/Code_ICPR code] \] (中科院JCR 1区, Corresponding author) \n
+
+- Yixuan Zhou, *Xing Xu*, Jingkuan Song, Fumin Shen, and Heng Tao Shen: MSFlow: Multi-Scale Flow-based Framework for Unsupervised Anomaly Detection. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. (中科院JCR 1区, Corresponding author) \n
+
+- Jiefu Chen, Tong Chen, *Xing Xu*, Jingran Zhang, Yang Yang, and Heng Tao Shen: Coreset Learning based Sparse Black-box Adversarial Attack for Video Recognition. IEEE Transactions on Information Forensics & Security, 2023. (中科院JCR 1区) \n
 
 - Shenshen Li, *Xing Xu*, Xun Jiang, Fumin Shen, Xin Liu, and Heng Tao Shen: Multi-Grained Attention Network with Mutual Exclusion for Composed Query-Based Image Retrieval. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023. (中科院JCR 1区, Corresponding author) \[ [https://github.com/CFM-MSG/Code_MANME code] \] \n
 
@@ -62,6 +66,13 @@
 
 = Conference Papers
 
+- Zixian Gao, Xun Jiang, *Xing Xu*, Fumin Shen, Yujie Li, Heng Tao Shen: Embracing Unimodal
+Aleatoric Uncertainty for Robust Multimodal Fusion. IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2024). (CCF A, Corresponding author)
+
+- Shenshen Li, Chen He, *Xing Xu*, Fumin Shen, Yang Yang, and Heng Tao Shen: Adaptive Uncertainty-based Learning for Text-based Person Retrieval. Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024). (CCF A, Corresponding author) \[ [https://github.com/CFM-MSG/Code-AUL code] \] \n
+
+- Lei Wang, Yi Hu, Jiabang He, Xing Xu, Ning Liu, Hui Liu, and Heng Tao Shen: T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Large Language Model Signals for Science Question Answering. Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024). (CCF A, Corresponding author) \[ [https://github.com/T-SciQ/T-SciQ code] \] \n
+
 - Shenshen Li, *Xing Xu*, Yang Yang, Fumin Shen, Yijun Mo, Yujie Li, Heng Tao Shen: DCEL: Deep Cross-Modal Evidential Learning for Text-Based Person Retrieval. ACM International Conference on Multimedia (ACM MM), 2023. (CCF A, Corresponding author) \[ [https://github.com/CFM-MSG/Code_DCEL code] \] \n
 
 - Zhiguo Chen, Xun Jiang, *Xing Xu*, Zuo Cao, Yijun Mo, Heng Tao Shen: Joint Searching and Grounding: Multi-Granularity Video Content Retrieval. ACM International Conference on Multimedia (ACM MM), 2023. (CCF A, Corresponding author) \[ [https://github.com/CFM-MSG/Code_JSG code] \] \n
@@ -74,7 +85,7 @@
 
 - Jiabang He, Lei Wang, Yi Hu, Ning Liu, Hui Liu, *Xing Xu*, Heng Tao Shen: ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction. International Conference on Computer Vision (ICCV), 2023. (CCF A, Corresponding author) \n
 
--  Jiabang He, Yi Hu, Lei Wang, *Xing Xu*, Ning Liu, Hui Liu and Heng Tao Shen: Do-GOOD: Towards Distribution Shift Evaluation for Pre-Trained Visual Document Understanding Models. The 46th International ACM SIGIR Conference on Research and Development (SIGIR) 2023 (CCF A, Corresponding author) \[ [https://github.com/MAEHCM/Do-GOOD code] \] \n
+- Jiabang He, Yi Hu, Lei Wang, *Xing Xu*, Ning Liu, Hui Liu and Heng Tao Shen: Do-GOOD: Towards Distribution Shift Evaluation for Pre-Trained Visual Document Understanding Models. The 46th International ACM SIGIR Conference on Research and Development (SIGIR) 2023 (CCF A, Corresponding author) \[ [https://github.com/MAEHCM/Do-GOOD code] \] \n
 
 -  Lei Wang, Jiabang He, *Xing Xu*, Ning Liu and Hui Liu: Alignment-Enriched Tuning for Patch-Level Pre-trained Document Image Models. Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) 2023 (CCF A, Corresponding author) \[ [https://github.com/MAEHCM/AET code] \] \n
 
