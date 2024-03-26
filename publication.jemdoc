@@ -66,12 +66,16 @@
 
 = Conference Papers
 
-- Zixian Gao, Xun Jiang, *Xing Xu*, Fumin Shen, Yujie Li, Heng Tao Shen: Embracing Unimodal
+- Kai Wang, Jiayang Liu, *Xing Xu*, Jingkuan Song, Xin Liu, and Heng Tao Shen: Unsupevised Cross-Domain Image Retrieval with Semantic-Attended Mixture-of-Experts. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024). (CCF A, Corresponding author)
+
+- Quanxing Zha, Xin Liu, Yiu-Ming Cheung, *Xing Xu*, Nannan Wang and Jianjia Cao: UGNCL: Uncertainty-Guided Noisy Correspondence Learning for Efficient Cross-Modal Matching. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024). (CCF A)
+
+- Zixian Gao, Xun Jiang, *Xing Xu*, Fumin Shen, Yujie Li, and Heng Tao Shen: Embracing Unimodal
 Aleatoric Uncertainty for Robust Multimodal Fusion. IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2024). (CCF A, Corresponding author)
 
 - Shenshen Li, Chen He, *Xing Xu*, Fumin Shen, Yang Yang, and Heng Tao Shen: Adaptive Uncertainty-based Learning for Text-based Person Retrieval. Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024). (CCF A, Corresponding author) \[ [https://github.com/CFM-MSG/Code-AUL code] \] \n
 
-- Lei Wang, Yi Hu, Jiabang He, Xing Xu, Ning Liu, Hui Liu, and Heng Tao Shen: T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Large Language Model Signals for Science Question Answering. Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024). (CCF A, Corresponding author) \[ [https://github.com/T-SciQ/T-SciQ code] \] \n
+- Lei Wang, Yi Hu, Jiabang He, *Xing Xu*, Ning Liu, Hui Liu, and Heng Tao Shen: T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Large Language Model Signals for Science Question Answering. Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024). (CCF A) \[ [https://github.com/T-SciQ/T-SciQ code] \] \n
 
 - Shenshen Li, *Xing Xu*, Yang Yang, Fumin Shen, Yijun Mo, Yujie Li, Heng Tao Shen: DCEL: Deep Cross-Modal Evidential Learning for Text-Based Person Retrieval. ACM International Conference on Multimedia (ACM MM), 2023. (CCF A, Corresponding author) \[ [https://github.com/CFM-MSG/Code_DCEL code] \] \n
 
@@ -121,7 +125,7 @@ Rethinking Open-World Object Detection in Autonomous Driving Scenarios. ACM Mult
 
 -  Shuo Ma, Yanli Ji, *Xing Xu*, Xiaofeng Zhu: Vision-guided Music Source Separation via a Fine-grained Cycle-Separation Network. ACM International Conference on Multimedia 2021 (CCF A) \n
 
--  Yifan Ren, *Xing Xu*, Fumin Shen, Yazhou Yao, Huimin Lu: Multi-scale Dynamic Network for Temporal Action Detection. ACM International Conference on Multimedia 2021 (CCF A, Corresponding author)\n
+-  Yifan Ren, *Xing Xu*, Fumin Shen, Yazhou Yao, Huimin Lu: CAA: Candidate-Aware Aggregation for Temporal Action Detection. ACM International Conference on Multimedia 2021 (CCF A, Corresponding author)\n
 
 -  Guoqing Wang, Changming Sun, *Xing Xu*, Jingjing Li, Zheng Wang, Zeyu Ma: Disentangled Representation Learning and Enhancement Network for Single Image De-Raining, ACM International Conference on Multimedia 2021 (CCF A) \n
 
